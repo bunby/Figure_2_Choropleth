@@ -1,0 +1,2206 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Single Race 6"	"Single Race 6 Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	34375	Suppressed
+	"Alabama"	"01"	"2018"	"2018"	"Asian"	"A"	0	73167	Unreliable
+	"Alabama"	"01"	"2018"	"2018"	"Black or African American"	"2054-5"	17	1310802	Unreliable
+	"Alabama"	"01"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5207	Unreliable
+	"Alabama"	"01"	"2018"	"2018"	"White"	"2106-3"	111	3379955	3.3
+	"Alabama"	"01"	"2018"	"2018"	"More than one race"	"M"	0	84365	Unreliable
+	"Alabama"	"01"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	34799	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"Asian"	"A"	0	73715	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"Black or African American"	"2054-5"	16	1313291	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5110	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"White"	"2106-3"	124	3389396	3.7
+	"Alabama"	"01"	"2019"	"2019"	"More than one race"	"M"	Suppressed	86874	Suppressed
+	"Alabama"	"01"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Alabama"	"01"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	34897	Unreliable
+	"Alabama"	"01"	"2020"	"2020"	"Asian"	"A"	0	75551	Unreliable
+	"Alabama"	"01"	"2020"	"2020"	"Black or African American"	"2054-5"	22	1319751	1.7
+	"Alabama"	"01"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5393	Unreliable
+	"Alabama"	"01"	"2020"	"2020"	"White"	"2106-3"	103	3396053	3.0
+	"Alabama"	"01"	"2020"	"2020"	"More than one race"	"M"	Suppressed	89887	Suppressed
+	"Alabama"	"01"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	36007	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"Asian"	"A"	0	78140	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"Black or African American"	"2054-5"	28	1353084	2.1
+	"Alabama"	"01"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5485	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"White"	"2106-3"	127	3472742	3.7
+	"Alabama"	"01"	"2021"	"2021"	"More than one race"	"M"	0	94419	Unreliable
+	"Alabama"	"01"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Alabama"	"01"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36325	Suppressed
+	"Alabama"	"01"	"2022"	"2022"	"Asian"	"A"	0	80615	Unreliable
+	"Alabama"	"01"	"2022"	"2022"	"Black or African American"	"2054-5"	30	1358620	2.2
+	"Alabama"	"01"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5556	Unreliable
+	"Alabama"	"01"	"2022"	"2022"	"White"	"2106-3"	125	3494189	3.6
+	"Alabama"	"01"	"2022"	"2022"	"More than one race"	"M"	0	98991	Unreliable
+	"Alabama"	"01"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Alabama"	"01"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	38281	Unreliable
+	"Alabama"	"01"	"2023 "	"2023"	"Asian"	"A"	Suppressed	81665	Suppressed
+	"Alabama"	"01"	"2023 "	"2023"	"Black or African American"	"2054-5"	35	1360275	2.6
+	"Alabama"	"01"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6075	Unreliable
+	"Alabama"	"01"	"2023 "	"2023"	"White"	"2106-3"	132	3519476	3.8
+	"Alabama"	"01"	"2023 "	"2023"	"More than one race"	"M"	0	102696	Unreliable
+	"Alabama"	"01"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	113516	Suppressed
+	"Alaska"	"02"	"2018"	"2018"	"Asian"	"A"	0	49025	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	27942	Suppressed
+	"Alaska"	"02"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10221	Unreliable
+	"Alaska"	"02"	"2018"	"2018"	"White"	"2106-3"	30	481879	6.2
+	"Alaska"	"02"	"2018"	"2018"	"More than one race"	"M"	Suppressed	54855	Suppressed
+	"Alaska"	"02"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	113953	Suppressed
+	"Alaska"	"02"	"2019"	"2019"	"Asian"	"A"	0	47799	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	27108	Suppressed
+	"Alaska"	"02"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10498	Unreliable
+	"Alaska"	"02"	"2019"	"2019"	"White"	"2106-3"	35	477488	7.3
+	"Alaska"	"02"	"2019"	"2019"	"More than one race"	"M"	Suppressed	54699	Suppressed
+	"Alaska"	"02"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	13	113812	Unreliable
+	"Alaska"	"02"	"2020"	"2020"	"Asian"	"A"	0	48557	Unreliable
+	"Alaska"	"02"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	26657	Suppressed
+	"Alaska"	"02"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11642	Unreliable
+	"Alaska"	"02"	"2020"	"2020"	"White"	"2106-3"	29	473485	6.1
+	"Alaska"	"02"	"2020"	"2020"	"More than one race"	"M"	Suppressed	57005	Suppressed
+	"Alaska"	"02"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	22	114947	19.1
+	"Alaska"	"02"	"2021"	"2021"	"Asian"	"A"	0	48278	Unreliable
+	"Alaska"	"02"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	26689	Suppressed
+	"Alaska"	"02"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11921	Unreliable
+	"Alaska"	"02"	"2021"	"2021"	"White"	"2106-3"	45	472939	9.5
+	"Alaska"	"02"	"2021"	"2021"	"More than one race"	"M"	Suppressed	57899	Suppressed
+	"Alaska"	"02"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	16	115194	Unreliable
+	"Alaska"	"02"	"2022"	"2022"	"Asian"	"A"	0	49365	Unreliable
+	"Alaska"	"02"	"2022"	"2022"	"Black or African American"	"2054-5"	0	26837	Unreliable
+	"Alaska"	"02"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12269	Unreliable
+	"Alaska"	"02"	"2022"	"2022"	"White"	"2106-3"	34	470101	7.2
+	"Alaska"	"02"	"2022"	"2022"	"More than one race"	"M"	Suppressed	59817	Suppressed
+	"Alaska"	"02"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Alaska"	"02"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	11	114386	Unreliable
+	"Alaska"	"02"	"2023 "	"2023"	"Asian"	"A"	0	49670	Unreliable
+	"Alaska"	"02"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	26911	Unreliable
+	"Alaska"	"02"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	12444	Suppressed
+	"Alaska"	"02"	"2023 "	"2023"	"White"	"2106-3"	22	470497	4.7
+	"Alaska"	"02"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	59498	Suppressed
+	"Alaska"	"02"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	380160	Suppressed
+	"Arizona"	"04"	"2018"	"2018"	"Asian"	"A"	0	263696	Unreliable
+	"Arizona"	"04"	"2018"	"2018"	"Black or African American"	"2054-5"	14	364280	Unreliable
+	"Arizona"	"04"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	19789	Unreliable
+	"Arizona"	"04"	"2018"	"2018"	"White"	"2106-3"	305	5937806	5.1
+	"Arizona"	"04"	"2018"	"2018"	"More than one race"	"M"	Suppressed	205915	Suppressed
+	"Arizona"	"04"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	385903	Suppressed
+	"Arizona"	"04"	"2019"	"2019"	"Asian"	"A"	Suppressed	268723	Suppressed
+	"Arizona"	"04"	"2019"	"2019"	"Black or African American"	"2054-5"	23	376997	6.1
+	"Arizona"	"04"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	20169	Unreliable
+	"Arizona"	"04"	"2019"	"2019"	"White"	"2106-3"	281	6013442	4.7
+	"Arizona"	"04"	"2019"	"2019"	"More than one race"	"M"	Suppressed	213483	Suppressed
+	"Arizona"	"04"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	13	391444	Unreliable
+	"Arizona"	"04"	"2020"	"2020"	"Asian"	"A"	0	281163	Unreliable
+	"Arizona"	"04"	"2020"	"2020"	"Black or African American"	"2054-5"	21	395074	5.3
+	"Arizona"	"04"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	20949	Unreliable
+	"Arizona"	"04"	"2020"	"2020"	"White"	"2106-3"	302	6105819	4.9
+	"Arizona"	"04"	"2020"	"2020"	"More than one race"	"M"	Suppressed	226952	Suppressed
+	"Arizona"	"04"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	384338	Suppressed
+	"Arizona"	"04"	"2021"	"2021"	"Asian"	"A"	Suppressed	277804	Suppressed
+	"Arizona"	"04"	"2021"	"2021"	"Black or African American"	"2054-5"	18	395177	Unreliable
+	"Arizona"	"04"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	20869	Suppressed
+	"Arizona"	"04"	"2021"	"2021"	"White"	"2106-3"	246	5969037	4.1
+	"Arizona"	"04"	"2021"	"2021"	"More than one race"	"M"	Suppressed	229091	Suppressed
+	"Arizona"	"04"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	379712	Suppressed
+	"Arizona"	"04"	"2022"	"2022"	"Asian"	"A"	Suppressed	289336	Suppressed
+	"Arizona"	"04"	"2022"	"2022"	"Black or African American"	"2054-5"	13	407994	Unreliable
+	"Arizona"	"04"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	21465	Suppressed
+	"Arizona"	"04"	"2022"	"2022"	"White"	"2106-3"	204	6024591	3.4
+	"Arizona"	"04"	"2022"	"2022"	"More than one race"	"M"	Suppressed	236099	Suppressed
+	"Arizona"	"04"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Arizona"	"04"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	383596	Suppressed
+	"Arizona"	"04"	"2023 "	"2023"	"Asian"	"A"	0	303691	Unreliable
+	"Arizona"	"04"	"2023 "	"2023"	"Black or African American"	"2054-5"	10	422598	Unreliable
+	"Arizona"	"04"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	21999	Suppressed
+	"Arizona"	"04"	"2023 "	"2023"	"White"	"2106-3"	200	6056359	3.3
+	"Arizona"	"04"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	243101	Suppressed
+	"Arizona"	"04"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	30225	Suppressed
+	"Arkansas"	"05"	"2018"	"2018"	"Asian"	"A"	Suppressed	50301	Suppressed
+	"Arkansas"	"05"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	472287	Suppressed
+	"Arkansas"	"05"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10881	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"White"	"2106-3"	101	2385213	4.2
+	"Arkansas"	"05"	"2018"	"2018"	"More than one race"	"M"	0	64918	Unreliable
+	"Arkansas"	"05"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	30717	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Asian"	"A"	0	50403	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Black or African American"	"2054-5"	12	473048	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11786	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"White"	"2106-3"	83	2385258	3.5
+	"Arkansas"	"05"	"2019"	"2019"	"More than one race"	"M"	0	66592	Unreliable
+	"Arkansas"	"05"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	31714	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"Asian"	"A"	0	53246	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"Black or African American"	"2054-5"	16	475874	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12835	Unreliable
+	"Arkansas"	"05"	"2020"	"2020"	"White"	"2106-3"	80	2388414	3.3
+	"Arkansas"	"05"	"2020"	"2020"	"More than one race"	"M"	Suppressed	68439	Suppressed
+	"Arkansas"	"05"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	32625	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Asian"	"A"	0	54457	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Black or African American"	"2054-5"	11	475018	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13196	Unreliable
+	"Arkansas"	"05"	"2021"	"2021"	"White"	"2106-3"	92	2379596	3.9
+	"Arkansas"	"05"	"2021"	"2021"	"More than one race"	"M"	Suppressed	70999	Suppressed
+	"Arkansas"	"05"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	33266	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"Asian"	"A"	0	56221	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"Black or African American"	"2054-5"	12	476278	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14365	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"White"	"2106-3"	100	2391860	4.2
+	"Arkansas"	"05"	"2022"	"2022"	"More than one race"	"M"	0	73647	Unreliable
+	"Arkansas"	"05"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	34691	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"Asian"	"A"	0	57743	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"Black or African American"	"2054-5"	12	478247	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	15064	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"White"	"2106-3"	69	2405736	2.9
+	"Arkansas"	"05"	"2023 "	"2023"	"More than one race"	"M"	0	76251	Unreliable
+	"Arkansas"	"05"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	11	651076	Unreliable
+	"California"	"06"	"2018"	"2018"	"Asian"	"A"	29	6063600	0.5
+	"California"	"06"	"2018"	"2018"	"Black or African American"	"2054-5"	60	2556000	2.3
+	"California"	"06"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	199872	Suppressed
+	"California"	"06"	"2018"	"2018"	"White"	"2106-3"	844	28531740	3.0
+	"California"	"06"	"2018"	"2018"	"More than one race"	"M"	30	1554757	1.9
+	"California"	"06"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	13	649862	Unreliable
+	"California"	"06"	"2019"	"2019"	"Asian"	"A"	25	6110945	0.4
+	"California"	"06"	"2019"	"2019"	"Black or African American"	"2054-5"	72	2552757	2.8
+	"California"	"06"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	199805	Suppressed
+	"California"	"06"	"2019"	"2019"	"White"	"2106-3"	832	28424739	2.9
+	"California"	"06"	"2019"	"2019"	"More than one race"	"M"	37	1574115	2.4
+	"California"	"06"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	10	667270	Unreliable
+	"California"	"06"	"2020"	"2020"	"Asian"	"A"	25	6233297	0.4
+	"California"	"06"	"2020"	"2020"	"Black or African American"	"2054-5"	78	2555258	3.1
+	"California"	"06"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	203774	Suppressed
+	"California"	"06"	"2020"	"2020"	"White"	"2106-3"	901	28073011	3.2
+	"California"	"06"	"2020"	"2020"	"More than one race"	"M"	30	1635468	1.8
+	"California"	"06"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	22	675009	3.3
+	"California"	"06"	"2021"	"2021"	"Asian"	"A"	18	6250368	Unreliable
+	"California"	"06"	"2021"	"2021"	"Black or African American"	"2054-5"	86	2548114	3.4
+	"California"	"06"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	204990	Suppressed
+	"California"	"06"	"2021"	"2021"	"White"	"2106-3"	938	27902177	3.4
+	"California"	"06"	"2021"	"2021"	"More than one race"	"M"	30	1657178	1.8
+	"California"	"06"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	12	672768	Unreliable
+	"California"	"06"	"2022"	"2022"	"Asian"	"A"	35	6347727	0.6
+	"California"	"06"	"2022"	"2022"	"Black or African American"	"2054-5"	88	2531957	3.5
+	"California"	"06"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	203788	Suppressed
+	"California"	"06"	"2022"	"2022"	"White"	"2106-3"	828	27607325	3.0
+	"California"	"06"	"2022"	"2022"	"More than one race"	"M"	31	1665777	1.9
+	"California"	"06"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"California"	"06"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	11	677414	Unreliable
+	"California"	"06"	"2023 "	"2023"	"Asian"	"A"	22	6437876	0.3
+	"California"	"06"	"2023 "	"2023"	"Black or African American"	"2054-5"	70	2528093	2.8
+	"California"	"06"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	204965	Suppressed
+	"California"	"06"	"2023 "	"2023"	"White"	"2106-3"	703	27427713	2.6
+	"California"	"06"	"2023 "	"2023"	"More than one race"	"M"	32	1689132	1.9
+	"California"	"06"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	91120	Suppressed
+	"Colorado"	"08"	"2018"	"2018"	"Asian"	"A"	Suppressed	197634	Suppressed
+	"Colorado"	"08"	"2018"	"2018"	"Black or African American"	"2054-5"	14	259711	Unreliable
+	"Colorado"	"08"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10933	Unreliable
+	"Colorado"	"08"	"2018"	"2018"	"White"	"2106-3"	221	4959310	4.5
+	"Colorado"	"08"	"2018"	"2018"	"More than one race"	"M"	Suppressed	176856	Suppressed
+	"Colorado"	"08"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	92982	Suppressed
+	"Colorado"	"08"	"2019"	"2019"	"Asian"	"A"	Suppressed	202664	Suppressed
+	"Colorado"	"08"	"2019"	"2019"	"Black or African American"	"2054-5"	14	264479	Unreliable
+	"Colorado"	"08"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	11329	Suppressed
+	"Colorado"	"08"	"2019"	"2019"	"White"	"2106-3"	230	5006612	4.6
+	"Colorado"	"08"	"2019"	"2019"	"More than one race"	"M"	Suppressed	180670	Suppressed
+	"Colorado"	"08"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	96393	Suppressed
+	"Colorado"	"08"	"2020"	"2020"	"Asian"	"A"	Suppressed	206907	Suppressed
+	"Colorado"	"08"	"2020"	"2020"	"Black or African American"	"2054-5"	16	269041	Unreliable
+	"Colorado"	"08"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12285	Unreliable
+	"Colorado"	"08"	"2020"	"2020"	"White"	"2106-3"	249	5033960	4.9
+	"Colorado"	"08"	"2020"	"2020"	"More than one race"	"M"	Suppressed	189133	Suppressed
+	"Colorado"	"08"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	97711	Suppressed
+	"Colorado"	"08"	"2021"	"2021"	"Asian"	"A"	Suppressed	208878	Suppressed
+	"Colorado"	"08"	"2021"	"2021"	"Black or African American"	"2054-5"	18	271768	Unreliable
+	"Colorado"	"08"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12760	Unreliable
+	"Colorado"	"08"	"2021"	"2021"	"White"	"2106-3"	274	5027045	5.5
+	"Colorado"	"08"	"2021"	"2021"	"More than one race"	"M"	Suppressed	193907	Suppressed
+	"Colorado"	"08"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	97828	Suppressed
+	"Colorado"	"08"	"2022"	"2022"	"Asian"	"A"	Suppressed	219273	Suppressed
+	"Colorado"	"08"	"2022"	"2022"	"Black or African American"	"2054-5"	14	276966	Unreliable
+	"Colorado"	"08"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13003	Unreliable
+	"Colorado"	"08"	"2022"	"2022"	"White"	"2106-3"	208	5032844	4.1
+	"Colorado"	"08"	"2022"	"2022"	"More than one race"	"M"	Suppressed	200012	Suppressed
+	"Colorado"	"08"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Colorado"	"08"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	98655	Suppressed
+	"Colorado"	"08"	"2023 "	"2023"	"Asian"	"A"	Suppressed	225455	Suppressed
+	"Colorado"	"08"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	282708	Suppressed
+	"Colorado"	"08"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	13489	Suppressed
+	"Colorado"	"08"	"2023 "	"2023"	"White"	"2106-3"	183	5051985	3.6
+	"Colorado"	"08"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	205318	Suppressed
+	"Colorado"	"08"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	19943	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"Asian"	"A"	0	173799	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"Black or African American"	"2054-5"	19	429298	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3840	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"White"	"2106-3"	145	2859280	5.1
+	"Connecticut"	"09"	"2018"	"2018"	"More than one race"	"M"	0	86505	Unreliable
+	"Connecticut"	"09"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	20567	Unreliable
+	"Connecticut"	"09"	"2019"	"2019"	"Asian"	"A"	Suppressed	176579	Suppressed
+	"Connecticut"	"09"	"2019"	"2019"	"Black or African American"	"2054-5"	27	434585	6.2
+	"Connecticut"	"09"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3879	Unreliable
+	"Connecticut"	"09"	"2019"	"2019"	"White"	"2106-3"	183	2841541	6.4
+	"Connecticut"	"09"	"2019"	"2019"	"More than one race"	"M"	Suppressed	88136	Suppressed
+	"Connecticut"	"09"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	22803	Unreliable
+	"Connecticut"	"09"	"2020"	"2020"	"Asian"	"A"	Suppressed	178587	Suppressed
+	"Connecticut"	"09"	"2020"	"2020"	"Black or African American"	"2054-5"	32	444545	7.2
+	"Connecticut"	"09"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4106	Unreliable
+	"Connecticut"	"09"	"2020"	"2020"	"White"	"2106-3"	186	2815645	6.6
+	"Connecticut"	"09"	"2020"	"2020"	"More than one race"	"M"	0	91320	Unreliable
+	"Connecticut"	"09"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	24184	Unreliable
+	"Connecticut"	"09"	"2021"	"2021"	"Asian"	"A"	Suppressed	182469	Suppressed
+	"Connecticut"	"09"	"2021"	"2021"	"Black or African American"	"2054-5"	20	457331	4.4
+	"Connecticut"	"09"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4184	Unreliable
+	"Connecticut"	"09"	"2021"	"2021"	"White"	"2106-3"	169	2842528	5.9
+	"Connecticut"	"09"	"2021"	"2021"	"More than one race"	"M"	0	94901	Unreliable
+	"Connecticut"	"09"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	26709	Suppressed
+	"Connecticut"	"09"	"2022"	"2022"	"Asian"	"A"	Suppressed	187571	Suppressed
+	"Connecticut"	"09"	"2022"	"2022"	"Black or African American"	"2054-5"	23	467161	4.9
+	"Connecticut"	"09"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4154	Unreliable
+	"Connecticut"	"09"	"2022"	"2022"	"White"	"2106-3"	172	2841487	6.1
+	"Connecticut"	"09"	"2022"	"2022"	"More than one race"	"M"	Suppressed	99123	Suppressed
+	"Connecticut"	"09"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Connecticut"	"09"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	28169	Unreliable
+	"Connecticut"	"09"	"2023 "	"2023"	"Asian"	"A"	0	187721	Unreliable
+	"Connecticut"	"09"	"2023 "	"2023"	"Black or African American"	"2054-5"	22	473626	4.6
+	"Connecticut"	"09"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4330	Unreliable
+	"Connecticut"	"09"	"2023 "	"2023"	"White"	"2106-3"	133	2821846	4.7
+	"Connecticut"	"09"	"2023 "	"2023"	"More than one race"	"M"	0	101484	Unreliable
+	"Connecticut"	"09"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	6458	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Asian"	"A"	0	39584	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Black or African American"	"2054-5"	10	222070	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1049	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"White"	"2106-3"	53	672019	7.9
+	"Delaware"	"10"	"2018"	"2018"	"More than one race"	"M"	0	25991	Unreliable
+	"Delaware"	"10"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	6564	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Asian"	"A"	0	39863	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Black or African American"	"2054-5"	10	225544	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1059	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"White"	"2106-3"	44	674075	6.5
+	"Delaware"	"10"	"2019"	"2019"	"More than one race"	"M"	0	26659	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	6898	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"Asian"	"A"	0	41543	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	230739	Suppressed
+	"Delaware"	"10"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1136	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"White"	"2106-3"	45	677898	6.6
+	"Delaware"	"10"	"2020"	"2020"	"More than one race"	"M"	0	28595	Unreliable
+	"Delaware"	"10"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	7124	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"Asian"	"A"	0	42419	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"Black or African American"	"2054-5"	15	236621	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1163	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"White"	"2106-3"	36	686599	5.2
+	"Delaware"	"10"	"2021"	"2021"	"More than one race"	"M"	0	29458	Unreliable
+	"Delaware"	"10"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	7176	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"Asian"	"A"	0	44490	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"Black or African American"	"2054-5"	13	242210	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1173	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"White"	"2106-3"	27	692506	3.9
+	"Delaware"	"10"	"2022"	"2022"	"More than one race"	"M"	0	30841	Unreliable
+	"Delaware"	"10"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Delaware"	"10"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	7565	Unreliable
+	"Delaware"	"10"	"2023 "	"2023"	"Asian"	"A"	0	45629	Unreliable
+	"Delaware"	"10"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	248434	Suppressed
+	"Delaware"	"10"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1197	Unreliable
+	"Delaware"	"10"	"2023 "	"2023"	"White"	"2106-3"	28	697094	4.0
+	"Delaware"	"10"	"2023 "	"2023"	"More than one race"	"M"	0	31971	Unreliable
+	"Delaware"	"10"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	4296	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"Asian"	"A"	0	31025	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"Black or African American"	"2054-5"	28	326181	8.6
+	"District of Columbia"	"11"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	975	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"White"	"2106-3"	Suppressed	320374	Suppressed
+	"District of Columbia"	"11"	"2018"	"2018"	"More than one race"	"M"	0	19604	Unreliable
+	"District of Columbia"	"11"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	4130	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Asian"	"A"	0	31502	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Black or African American"	"2054-5"	20	324484	6.2
+	"District of Columbia"	"11"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	923	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"White"	"2106-3"	Suppressed	324581	Suppressed
+	"District of Columbia"	"11"	"2019"	"2019"	"More than one race"	"M"	0	20129	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	4240	Unreliable
+	"District of Columbia"	"11"	"2020"	"2020"	"Asian"	"A"	Suppressed	32460	Suppressed
+	"District of Columbia"	"11"	"2020"	"2020"	"Black or African American"	"2054-5"	29	324186	8.9
+	"District of Columbia"	"11"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1089	Unreliable
+	"District of Columbia"	"11"	"2020"	"2020"	"White"	"2106-3"	Suppressed	329706	Suppressed
+	"District of Columbia"	"11"	"2020"	"2020"	"More than one race"	"M"	Suppressed	21135	Suppressed
+	"District of Columbia"	"11"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	4067	Unreliable
+	"District of Columbia"	"11"	"2021"	"2021"	"Asian"	"A"	Suppressed	30342	Suppressed
+	"District of Columbia"	"11"	"2021"	"2021"	"Black or African American"	"2054-5"	23	306925	7.5
+	"District of Columbia"	"11"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1063	Unreliable
+	"District of Columbia"	"11"	"2021"	"2021"	"White"	"2106-3"	Suppressed	307274	Suppressed
+	"District of Columbia"	"11"	"2021"	"2021"	"More than one race"	"M"	0	20379	Unreliable
+	"District of Columbia"	"11"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	4688	Unreliable
+	"District of Columbia"	"11"	"2022"	"2022"	"Asian"	"A"	0	31360	Unreliable
+	"District of Columbia"	"11"	"2022"	"2022"	"Black or African American"	"2054-5"	29	302568	9.6
+	"District of Columbia"	"11"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1127	Unreliable
+	"District of Columbia"	"11"	"2022"	"2022"	"White"	"2106-3"	Suppressed	310692	Suppressed
+	"District of Columbia"	"11"	"2022"	"2022"	"More than one race"	"M"	0	21368	Unreliable
+	"District of Columbia"	"11"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	4608	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"Asian"	"A"	0	33358	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"Black or African American"	"2054-5"	18	301204	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1217	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"White"	"2106-3"	Suppressed	316428	Suppressed
+	"District of Columbia"	"11"	"2023 "	"2023"	"More than one race"	"M"	0	22157	Unreliable
+	"District of Columbia"	"11"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	106984	Suppressed
+	"Florida"	"12"	"2018"	"2018"	"Asian"	"A"	Suppressed	631737	Suppressed
+	"Florida"	"12"	"2018"	"2018"	"Black or African American"	"2054-5"	49	3600121	1.4
+	"Florida"	"12"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	24353	Unreliable
+	"Florida"	"12"	"2018"	"2018"	"White"	"2106-3"	1125	16472125	6.8
+	"Florida"	"12"	"2018"	"2018"	"More than one race"	"M"	Suppressed	464005	Suppressed
+	"Florida"	"12"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	108950	Suppressed
+	"Florida"	"12"	"2019"	"2019"	"Asian"	"A"	Suppressed	634827	Suppressed
+	"Florida"	"12"	"2019"	"2019"	"Black or African American"	"2054-5"	61	3633515	1.7
+	"Florida"	"12"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	24641	Unreliable
+	"Florida"	"12"	"2019"	"2019"	"White"	"2106-3"	1054	16597392	6.4
+	"Florida"	"12"	"2019"	"2019"	"More than one race"	"M"	Suppressed	478412	Suppressed
+	"Florida"	"12"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	113961	Suppressed
+	"Florida"	"12"	"2020"	"2020"	"Asian"	"A"	Suppressed	654244	Suppressed
+	"Florida"	"12"	"2020"	"2020"	"Black or African American"	"2054-5"	75	3692972	2.0
+	"Florida"	"12"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	25891	Unreliable
+	"Florida"	"12"	"2020"	"2020"	"White"	"2106-3"	1052	16750159	6.3
+	"Florida"	"12"	"2020"	"2020"	"More than one race"	"M"	Suppressed	496085	Suppressed
+	"Florida"	"12"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	117401	Suppressed
+	"Florida"	"12"	"2021"	"2021"	"Asian"	"A"	Suppressed	663832	Suppressed
+	"Florida"	"12"	"2021"	"2021"	"Black or African American"	"2054-5"	66	3710894	1.8
+	"Florida"	"12"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	26678	Unreliable
+	"Florida"	"12"	"2021"	"2021"	"White"	"2106-3"	986	16749416	5.9
+	"Florida"	"12"	"2021"	"2021"	"More than one race"	"M"	Suppressed	512907	Suppressed
+	"Florida"	"12"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	122012	Suppressed
+	"Florida"	"12"	"2022"	"2022"	"Asian"	"A"	Suppressed	697294	Suppressed
+	"Florida"	"12"	"2022"	"2022"	"Black or African American"	"2054-5"	68	3773336	1.8
+	"Florida"	"12"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	28081	Unreliable
+	"Florida"	"12"	"2022"	"2022"	"White"	"2106-3"	851	17084651	5.0
+	"Florida"	"12"	"2022"	"2022"	"More than one race"	"M"	Suppressed	539449	Suppressed
+	"Florida"	"12"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Florida"	"12"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	129405	Suppressed
+	"Florida"	"12"	"2023 "	"2023"	"Asian"	"A"	Suppressed	728225	Suppressed
+	"Florida"	"12"	"2023 "	"2023"	"Black or African American"	"2054-5"	66	3829414	1.7
+	"Florida"	"12"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	29213	Unreliable
+	"Florida"	"12"	"2023 "	"2023"	"White"	"2106-3"	760	17333331	4.4
+	"Florida"	"12"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	561138	Suppressed
+	"Florida"	"12"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	54882	Unreliable
+	"Georgia"	"13"	"2018"	"2018"	"Asian"	"A"	Suppressed	453488	Suppressed
+	"Georgia"	"13"	"2018"	"2018"	"Black or African American"	"2054-5"	46	3411145	1.3
+	"Georgia"	"13"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12432	Unreliable
+	"Georgia"	"13"	"2018"	"2018"	"White"	"2106-3"	373	6360528	5.9
+	"Georgia"	"13"	"2018"	"2018"	"More than one race"	"M"	Suppressed	227000	Suppressed
+	"Georgia"	"13"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	56008	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"Asian"	"A"	Suppressed	463966	Suppressed
+	"Georgia"	"13"	"2019"	"2019"	"Black or African American"	"2054-5"	59	3458147	1.7
+	"Georgia"	"13"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12411	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"White"	"2106-3"	331	6391505	5.2
+	"Georgia"	"13"	"2019"	"2019"	"More than one race"	"M"	0	235386	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	57589	Suppressed
+	"Georgia"	"13"	"2020"	"2020"	"Asian"	"A"	Suppressed	482232	Suppressed
+	"Georgia"	"13"	"2020"	"2020"	"Black or African American"	"2054-5"	75	3510241	2.1
+	"Georgia"	"13"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14483	Unreliable
+	"Georgia"	"13"	"2020"	"2020"	"White"	"2106-3"	384	6399954	6.0
+	"Georgia"	"13"	"2020"	"2020"	"More than one race"	"M"	Suppressed	245518	Suppressed
+	"Georgia"	"13"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	59144	Suppressed
+	"Georgia"	"13"	"2021"	"2021"	"Asian"	"A"	Suppressed	493398	Suppressed
+	"Georgia"	"13"	"2021"	"2021"	"Black or African American"	"2054-5"	81	3558724	2.3
+	"Georgia"	"13"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14864	Unreliable
+	"Georgia"	"13"	"2021"	"2021"	"White"	"2106-3"	432	6418207	6.7
+	"Georgia"	"13"	"2021"	"2021"	"More than one race"	"M"	Suppressed	255229	Suppressed
+	"Georgia"	"13"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	60396	Suppressed
+	"Georgia"	"13"	"2022"	"2022"	"Asian"	"A"	Suppressed	520964	Suppressed
+	"Georgia"	"13"	"2022"	"2022"	"Black or African American"	"2054-5"	91	3613543	2.5
+	"Georgia"	"13"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	14944	Suppressed
+	"Georgia"	"13"	"2022"	"2022"	"White"	"2106-3"	403	6436683	6.3
+	"Georgia"	"13"	"2022"	"2022"	"More than one race"	"M"	Suppressed	266346	Suppressed
+	"Georgia"	"13"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Georgia"	"13"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	64904	Unreliable
+	"Georgia"	"13"	"2023 "	"2023"	"Asian"	"A"	Suppressed	537487	Suppressed
+	"Georgia"	"13"	"2023 "	"2023"	"Black or African American"	"2054-5"	74	3661752	2.0
+	"Georgia"	"13"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	15348	Unreliable
+	"Georgia"	"13"	"2023 "	"2023"	"White"	"2106-3"	307	6473549	4.7
+	"Georgia"	"13"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	276187	Suppressed
+	"Georgia"	"13"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	5629	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"Asian"	"A"	Suppressed	534651	Suppressed
+	"Hawaii"	"15"	"2018"	"2018"	"Black or African American"	"2054-5"	0	31138	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	144806	Suppressed
+	"Hawaii"	"15"	"2018"	"2018"	"White"	"2106-3"	18	363549	Unreliable
+	"Hawaii"	"15"	"2018"	"2018"	"More than one race"	"M"	Suppressed	340718	Suppressed
+	"Hawaii"	"15"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	5570	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"Asian"	"A"	Suppressed	532190	Suppressed
+	"Hawaii"	"15"	"2019"	"2019"	"Black or African American"	"2054-5"	0	30958	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	143549	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"White"	"2106-3"	19	361317	Unreliable
+	"Hawaii"	"15"	"2019"	"2019"	"More than one race"	"M"	Suppressed	342288	Suppressed
+	"Hawaii"	"15"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	5474	Suppressed
+	"Hawaii"	"15"	"2020"	"2020"	"Asian"	"A"	Suppressed	522091	Suppressed
+	"Hawaii"	"15"	"2020"	"2020"	"Black or African American"	"2054-5"	0	30537	Unreliable
+	"Hawaii"	"15"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	147408	Suppressed
+	"Hawaii"	"15"	"2020"	"2020"	"White"	"2106-3"	17	355055	Unreliable
+	"Hawaii"	"15"	"2020"	"2020"	"More than one race"	"M"	Suppressed	346441	Suppressed
+	"Hawaii"	"15"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	5698	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"Asian"	"A"	Suppressed	529888	Suppressed
+	"Hawaii"	"15"	"2021"	"2021"	"Black or African American"	"2054-5"	0	31000	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	150726	Suppressed
+	"Hawaii"	"15"	"2021"	"2021"	"White"	"2106-3"	15	364116	Unreliable
+	"Hawaii"	"15"	"2021"	"2021"	"More than one race"	"M"	Suppressed	360125	Suppressed
+	"Hawaii"	"15"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	5730	Unreliable
+	"Hawaii"	"15"	"2022"	"2022"	"Asian"	"A"	Suppressed	534794	Suppressed
+	"Hawaii"	"15"	"2022"	"2022"	"Black or African American"	"2054-5"	0	31516	Unreliable
+	"Hawaii"	"15"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	148844	Suppressed
+	"Hawaii"	"15"	"2022"	"2022"	"White"	"2106-3"	15	363260	Unreliable
+	"Hawaii"	"15"	"2022"	"2022"	"More than one race"	"M"	Suppressed	356052	Suppressed
+	"Hawaii"	"15"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Hawaii"	"15"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	5639	Unreliable
+	"Hawaii"	"15"	"2023 "	"2023"	"Asian"	"A"	Suppressed	535776	Suppressed
+	"Hawaii"	"15"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	31398	Unreliable
+	"Hawaii"	"15"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	147752	Suppressed
+	"Hawaii"	"15"	"2023 "	"2023"	"White"	"2106-3"	Suppressed	361515	Suppressed
+	"Hawaii"	"15"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	353058	Suppressed
+	"Hawaii"	"15"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	30449	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"Asian"	"A"	Suppressed	27819	Suppressed
+	"Idaho"	"16"	"2018"	"2018"	"Black or African American"	"2054-5"	0	15775	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3883	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"White"	"2106-3"	71	1632188	4.3
+	"Idaho"	"16"	"2018"	"2018"	"More than one race"	"M"	0	44094	Unreliable
+	"Idaho"	"16"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	31120	Suppressed
+	"Idaho"	"16"	"2019"	"2019"	"Asian"	"A"	0	27711	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"Black or African American"	"2054-5"	0	16346	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3944	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"White"	"2106-3"	78	1662365	4.7
+	"Idaho"	"16"	"2019"	"2019"	"More than one race"	"M"	0	45579	Unreliable
+	"Idaho"	"16"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	31836	Suppressed
+	"Idaho"	"16"	"2020"	"2020"	"Asian"	"A"	0	29282	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"Black or African American"	"2054-5"	0	16771	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4112	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"White"	"2106-3"	82	1697299	4.8
+	"Idaho"	"16"	"2020"	"2020"	"More than one race"	"M"	0	47613	Unreliable
+	"Idaho"	"16"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	33064	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"Asian"	"A"	Suppressed	30778	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"Black or African American"	"2054-5"	0	17786	Unreliable
+	"Idaho"	"16"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4355	Unreliable
+	"Idaho"	"16"	"2021"	"2021"	"White"	"2106-3"	88	1764099	5.0
+	"Idaho"	"16"	"2021"	"2021"	"More than one race"	"M"	Suppressed	50841	Suppressed
+	"Idaho"	"16"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	33188	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"Asian"	"A"	Suppressed	32203	Suppressed
+	"Idaho"	"16"	"2022"	"2022"	"Black or African American"	"2054-5"	0	18882	Unreliable
+	"Idaho"	"16"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4540	Unreliable
+	"Idaho"	"16"	"2022"	"2022"	"White"	"2106-3"	73	1795997	4.1
+	"Idaho"	"16"	"2022"	"2022"	"More than one race"	"M"	0	54223	Unreliable
+	"Idaho"	"16"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Idaho"	"16"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	33774	Suppressed
+	"Idaho"	"16"	"2023 "	"2023"	"Asian"	"A"	0	34265	Unreliable
+	"Idaho"	"16"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	19766	Unreliable
+	"Idaho"	"16"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4701	Unreliable
+	"Idaho"	"16"	"2023 "	"2023"	"White"	"2106-3"	65	1816589	3.6
+	"Idaho"	"16"	"2023 "	"2023"	"More than one race"	"M"	0	55631	Unreliable
+	"Idaho"	"16"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	75567	Unreliable
+	"Illinois"	"17"	"2018"	"2018"	"Asian"	"A"	Suppressed	748722	Suppressed
+	"Illinois"	"17"	"2018"	"2018"	"Black or African American"	"2054-5"	63	1860190	3.4
+	"Illinois"	"17"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8445	Unreliable
+	"Illinois"	"17"	"2018"	"2018"	"White"	"2106-3"	356	9791840	3.6
+	"Illinois"	"17"	"2018"	"2018"	"More than one race"	"M"	Suppressed	256316	Suppressed
+	"Illinois"	"17"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	75500	Suppressed
+	"Illinois"	"17"	"2019"	"2019"	"Asian"	"A"	Suppressed	747690	Suppressed
+	"Illinois"	"17"	"2019"	"2019"	"Black or African American"	"2054-5"	87	1852516	4.7
+	"Illinois"	"17"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8385	Unreliable
+	"Illinois"	"17"	"2019"	"2019"	"White"	"2106-3"	347	9726915	3.6
+	"Illinois"	"17"	"2019"	"2019"	"More than one race"	"M"	Suppressed	260815	Suppressed
+	"Illinois"	"17"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	77474	Unreliable
+	"Illinois"	"17"	"2020"	"2020"	"Asian"	"A"	Suppressed	760289	Suppressed
+	"Illinois"	"17"	"2020"	"2020"	"Black or African American"	"2054-5"	130	1852475	7.0
+	"Illinois"	"17"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8513	Unreliable
+	"Illinois"	"17"	"2020"	"2020"	"White"	"2106-3"	397	9620497	4.1
+	"Illinois"	"17"	"2020"	"2020"	"More than one race"	"M"	Suppressed	268282	Suppressed
+	"Illinois"	"17"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	79517	Suppressed
+	"Illinois"	"17"	"2021"	"2021"	"Asian"	"A"	Suppressed	771000	Suppressed
+	"Illinois"	"17"	"2021"	"2021"	"Black or African American"	"2054-5"	153	1866607	8.2
+	"Illinois"	"17"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8708	Unreliable
+	"Illinois"	"17"	"2021"	"2021"	"White"	"2106-3"	357	9668380	3.7
+	"Illinois"	"17"	"2021"	"2021"	"More than one race"	"M"	Suppressed	277257	Suppressed
+	"Illinois"	"17"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	79326	Suppressed
+	"Illinois"	"17"	"2022"	"2022"	"Asian"	"A"	Suppressed	787633	Suppressed
+	"Illinois"	"17"	"2022"	"2022"	"Black or African American"	"2054-5"	132	1851472	7.1
+	"Illinois"	"17"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8599	Unreliable
+	"Illinois"	"17"	"2022"	"2022"	"White"	"2106-3"	296	9572606	3.1
+	"Illinois"	"17"	"2022"	"2022"	"More than one race"	"M"	Suppressed	282396	Suppressed
+	"Illinois"	"17"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Illinois"	"17"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	81266	Suppressed
+	"Illinois"	"17"	"2023 "	"2023"	"Asian"	"A"	Suppressed	793760	Suppressed
+	"Illinois"	"17"	"2023 "	"2023"	"Black or African American"	"2054-5"	93	1836105	5.1
+	"Illinois"	"17"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	8754	Suppressed
+	"Illinois"	"17"	"2023 "	"2023"	"White"	"2106-3"	268	9540695	2.8
+	"Illinois"	"17"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	289109	Suppressed
+	"Illinois"	"17"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	27740	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"Asian"	"A"	0	165368	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"Black or African American"	"2054-5"	37	658729	5.6
+	"Indiana"	"18"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4542	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"White"	"2106-3"	306	5694468	5.4
+	"Indiana"	"18"	"2018"	"2018"	"More than one race"	"M"	0	141031	Unreliable
+	"Indiana"	"18"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	28340	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"Asian"	"A"	0	174750	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"Black or African American"	"2054-5"	36	669596	5.4
+	"Indiana"	"18"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4539	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"White"	"2106-3"	330	5709592	5.8
+	"Indiana"	"18"	"2019"	"2019"	"More than one race"	"M"	0	145402	Unreliable
+	"Indiana"	"18"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	29369	Suppressed
+	"Indiana"	"18"	"2020"	"2020"	"Asian"	"A"	Suppressed	179485	Suppressed
+	"Indiana"	"18"	"2020"	"2020"	"Black or African American"	"2054-5"	50	681501	7.3
+	"Indiana"	"18"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4822	Unreliable
+	"Indiana"	"18"	"2020"	"2020"	"White"	"2106-3"	383	5707819	6.7
+	"Indiana"	"18"	"2020"	"2020"	"More than one race"	"M"	Suppressed	151957	Suppressed
+	"Indiana"	"18"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	30234	Suppressed
+	"Indiana"	"18"	"2021"	"2021"	"Asian"	"A"	Suppressed	184780	Suppressed
+	"Indiana"	"18"	"2021"	"2021"	"Black or African American"	"2054-5"	44	695117	6.3
+	"Indiana"	"18"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5007	Unreliable
+	"Indiana"	"18"	"2021"	"2021"	"White"	"2106-3"	411	5732894	7.2
+	"Indiana"	"18"	"2021"	"2021"	"More than one race"	"M"	Suppressed	157953	Suppressed
+	"Indiana"	"18"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	30332	Suppressed
+	"Indiana"	"18"	"2022"	"2022"	"Asian"	"A"	Suppressed	192821	Suppressed
+	"Indiana"	"18"	"2022"	"2022"	"Black or African American"	"2054-5"	38	704235	5.4
+	"Indiana"	"18"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5162	Unreliable
+	"Indiana"	"18"	"2022"	"2022"	"White"	"2106-3"	300	5736944	5.2
+	"Indiana"	"18"	"2022"	"2022"	"More than one race"	"M"	Suppressed	163543	Suppressed
+	"Indiana"	"18"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Indiana"	"18"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	32050	Unreliable
+	"Indiana"	"18"	"2023 "	"2023"	"Asian"	"A"	Suppressed	197232	Suppressed
+	"Indiana"	"18"	"2023 "	"2023"	"Black or African American"	"2054-5"	24	715156	3.4
+	"Indiana"	"18"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5681	Unreliable
+	"Indiana"	"18"	"2023 "	"2023"	"White"	"2106-3"	179	5743468	3.1
+	"Indiana"	"18"	"2023 "	"2023"	"More than one race"	"M"	0	168612	Unreliable
+	"Indiana"	"18"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	16681	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"Asian"	"A"	0	85708	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	124819	Suppressed
+	"Iowa"	"19"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4232	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"White"	"2106-3"	55	2864126	1.9
+	"Iowa"	"19"	"2018"	"2018"	"More than one race"	"M"	0	60579	Unreliable
+	"Iowa"	"19"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	17060	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"Asian"	"A"	0	84119	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	128105	Suppressed
+	"Iowa"	"19"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4804	Unreliable
+	"Iowa"	"19"	"2019"	"2019"	"White"	"2106-3"	54	2859080	1.9
+	"Iowa"	"19"	"2019"	"2019"	"More than one race"	"M"	Suppressed	61902	Suppressed
+	"Iowa"	"19"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	17588	Suppressed
+	"Iowa"	"19"	"2020"	"2020"	"Asian"	"A"	Suppressed	87400	Suppressed
+	"Iowa"	"19"	"2020"	"2020"	"Black or African American"	"2054-5"	0	132706	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5536	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"White"	"2106-3"	57	2855523	2.0
+	"Iowa"	"19"	"2020"	"2020"	"More than one race"	"M"	0	64808	Unreliable
+	"Iowa"	"19"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	18190	Unreliable
+	"Iowa"	"19"	"2021"	"2021"	"Asian"	"A"	Suppressed	88093	Suppressed
+	"Iowa"	"19"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	137863	Suppressed
+	"Iowa"	"19"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6324	Unreliable
+	"Iowa"	"19"	"2021"	"2021"	"White"	"2106-3"	61	2875490	2.1
+	"Iowa"	"19"	"2021"	"2021"	"More than one race"	"M"	Suppressed	67119	Suppressed
+	"Iowa"	"19"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	18984	Unreliable
+	"Iowa"	"19"	"2022"	"2022"	"Asian"	"A"	0	88649	Unreliable
+	"Iowa"	"19"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	141178	Suppressed
+	"Iowa"	"19"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7382	Unreliable
+	"Iowa"	"19"	"2022"	"2022"	"White"	"2106-3"	54	2874863	1.9
+	"Iowa"	"19"	"2022"	"2022"	"More than one race"	"M"	Suppressed	69461	Suppressed
+	"Iowa"	"19"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Iowa"	"19"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	20215	Unreliable
+	"Iowa"	"19"	"2023 "	"2023"	"Asian"	"A"	0	87472	Unreliable
+	"Iowa"	"19"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	144668	Suppressed
+	"Iowa"	"19"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8976	Unreliable
+	"Iowa"	"19"	"2023 "	"2023"	"White"	"2106-3"	65	2874673	2.3
+	"Iowa"	"19"	"2023 "	"2023"	"More than one race"	"M"	0	71000	Unreliable
+	"Iowa"	"19"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	34817	Suppressed
+	"Kansas"	"20"	"2018"	"2018"	"Asian"	"A"	0	91229	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	178618	Suppressed
+	"Kansas"	"20"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3619	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"White"	"2106-3"	77	2515351	3.1
+	"Kansas"	"20"	"2018"	"2018"	"More than one race"	"M"	0	87871	Unreliable
+	"Kansas"	"20"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	35063	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"Asian"	"A"	Suppressed	92862	Suppressed
+	"Kansas"	"20"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	178725	Suppressed
+	"Kansas"	"20"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3687	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"White"	"2106-3"	72	2513846	2.9
+	"Kansas"	"20"	"2019"	"2019"	"More than one race"	"M"	0	89131	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35490	Suppressed
+	"Kansas"	"20"	"2020"	"2020"	"Asian"	"A"	0	93452	Unreliable
+	"Kansas"	"20"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	179638	Suppressed
+	"Kansas"	"20"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3936	Unreliable
+	"Kansas"	"20"	"2020"	"2020"	"White"	"2106-3"	76	2508194	3.0
+	"Kansas"	"20"	"2020"	"2020"	"More than one race"	"M"	Suppressed	93095	Suppressed
+	"Kansas"	"20"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36318	Suppressed
+	"Kansas"	"20"	"2021"	"2021"	"Asian"	"A"	Suppressed	94163	Suppressed
+	"Kansas"	"20"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	181676	Suppressed
+	"Kansas"	"20"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4083	Unreliable
+	"Kansas"	"20"	"2021"	"2021"	"White"	"2106-3"	104	2522698	4.1
+	"Kansas"	"20"	"2021"	"2021"	"More than one race"	"M"	Suppressed	95644	Suppressed
+	"Kansas"	"20"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	36176	Unreliable
+	"Kansas"	"20"	"2022"	"2022"	"Asian"	"A"	Suppressed	94616	Suppressed
+	"Kansas"	"20"	"2022"	"2022"	"Black or African American"	"2054-5"	10	182656	Unreliable
+	"Kansas"	"20"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4446	Unreliable
+	"Kansas"	"20"	"2022"	"2022"	"White"	"2106-3"	118	2521658	4.7
+	"Kansas"	"20"	"2022"	"2022"	"More than one race"	"M"	Suppressed	97598	Suppressed
+	"Kansas"	"20"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Kansas"	"20"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36952	Suppressed
+	"Kansas"	"20"	"2023 "	"2023"	"Asian"	"A"	0	93719	Unreliable
+	"Kansas"	"20"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	182372	Suppressed
+	"Kansas"	"20"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4520	Unreliable
+	"Kansas"	"20"	"2023 "	"2023"	"White"	"2106-3"	78	2524491	3.1
+	"Kansas"	"20"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	98492	Suppressed
+	"Kansas"	"20"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	13412	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"Asian"	"A"	0	72806	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"Black or African American"	"2054-5"	16	375972	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4058	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"White"	"2106-3"	287	3913936	7.3
+	"Kentucky"	"21"	"2018"	"2018"	"More than one race"	"M"	0	88218	Unreliable
+	"Kentucky"	"21"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	13404	Unreliable
+	"Kentucky"	"21"	"2019"	"2019"	"Asian"	"A"	Suppressed	71504	Suppressed
+	"Kentucky"	"21"	"2019"	"2019"	"Black or African American"	"2054-5"	18	378479	Unreliable
+	"Kentucky"	"21"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4192	Unreliable
+	"Kentucky"	"21"	"2019"	"2019"	"White"	"2106-3"	314	3909923	8.0
+	"Kentucky"	"21"	"2019"	"2019"	"More than one race"	"M"	Suppressed	90171	Suppressed
+	"Kentucky"	"21"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	13658	Unreliable
+	"Kentucky"	"21"	"2020"	"2020"	"Asian"	"A"	0	74926	Unreliable
+	"Kentucky"	"21"	"2020"	"2020"	"Black or African American"	"2054-5"	32	382113	8.4
+	"Kentucky"	"21"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4670	Unreliable
+	"Kentucky"	"21"	"2020"	"2020"	"White"	"2106-3"	421	3907588	10.8
+	"Kentucky"	"21"	"2020"	"2020"	"More than one race"	"M"	Suppressed	94296	Suppressed
+	"Kentucky"	"21"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	14029	Unreliable
+	"Kentucky"	"21"	"2021"	"2021"	"Asian"	"A"	Suppressed	76900	Suppressed
+	"Kentucky"	"21"	"2021"	"2021"	"Black or African American"	"2054-5"	39	389241	10.0
+	"Kentucky"	"21"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4819	Unreliable
+	"Kentucky"	"21"	"2021"	"2021"	"White"	"2106-3"	376	3926400	9.6
+	"Kentucky"	"21"	"2021"	"2021"	"More than one race"	"M"	0	98005	Unreliable
+	"Kentucky"	"21"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	14509	Suppressed
+	"Kentucky"	"21"	"2022"	"2022"	"Asian"	"A"	0	79374	Unreliable
+	"Kentucky"	"21"	"2022"	"2022"	"Black or African American"	"2054-5"	31	391006	7.9
+	"Kentucky"	"21"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5260	Unreliable
+	"Kentucky"	"21"	"2022"	"2022"	"White"	"2106-3"	306	3920114	7.8
+	"Kentucky"	"21"	"2022"	"2022"	"More than one race"	"M"	Suppressed	102047	Suppressed
+	"Kentucky"	"21"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Kentucky"	"21"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	15420	Suppressed
+	"Kentucky"	"21"	"2023 "	"2023"	"Asian"	"A"	0	81438	Unreliable
+	"Kentucky"	"21"	"2023 "	"2023"	"Black or African American"	"2054-5"	24	396045	6.1
+	"Kentucky"	"21"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5555	Unreliable
+	"Kentucky"	"21"	"2023 "	"2023"	"White"	"2106-3"	260	3922637	6.6
+	"Kentucky"	"21"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	105059	Suppressed
+	"Kentucky"	"21"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	36500	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Asian"	"A"	0	84271	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Black or African American"	"2054-5"	19	1526090	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2889	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"White"	"2106-3"	126	2930432	4.3
+	"Louisiana"	"22"	"2018"	"2018"	"More than one race"	"M"	0	79796	Unreliable
+	"Louisiana"	"22"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36596	Suppressed
+	"Louisiana"	"22"	"2019"	"2019"	"Asian"	"A"	0	84192	Unreliable
+	"Louisiana"	"22"	"2019"	"2019"	"Black or African American"	"2054-5"	20	1524733	1.3
+	"Louisiana"	"22"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2854	Unreliable
+	"Louisiana"	"22"	"2019"	"2019"	"White"	"2106-3"	164	2918843	5.6
+	"Louisiana"	"22"	"2019"	"2019"	"More than one race"	"M"	0	81576	Unreliable
+	"Louisiana"	"22"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	37188	Suppressed
+	"Louisiana"	"22"	"2020"	"2020"	"Asian"	"A"	0	86912	Unreliable
+	"Louisiana"	"22"	"2020"	"2020"	"Black or African American"	"2054-5"	43	1528900	2.8
+	"Louisiana"	"22"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2951	Unreliable
+	"Louisiana"	"22"	"2020"	"2020"	"White"	"2106-3"	221	2906906	7.6
+	"Louisiana"	"22"	"2020"	"2020"	"More than one race"	"M"	Suppressed	82461	Suppressed
+	"Louisiana"	"22"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	37772	Suppressed
+	"Louisiana"	"22"	"2021"	"2021"	"Asian"	"A"	0	86989	Unreliable
+	"Louisiana"	"22"	"2021"	"2021"	"Black or African American"	"2054-5"	52	1524944	3.4
+	"Louisiana"	"22"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3008	Unreliable
+	"Louisiana"	"22"	"2021"	"2021"	"White"	"2106-3"	243	2886564	8.4
+	"Louisiana"	"22"	"2021"	"2021"	"More than one race"	"M"	Suppressed	84770	Suppressed
+	"Louisiana"	"22"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	38096	Suppressed
+	"Louisiana"	"22"	"2022"	"2022"	"Asian"	"A"	0	88314	Unreliable
+	"Louisiana"	"22"	"2022"	"2022"	"Black or African American"	"2054-5"	67	1504750	4.5
+	"Louisiana"	"22"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3020	Unreliable
+	"Louisiana"	"22"	"2022"	"2022"	"White"	"2106-3"	226	2868945	7.9
+	"Louisiana"	"22"	"2022"	"2022"	"More than one race"	"M"	Suppressed	87116	Suppressed
+	"Louisiana"	"22"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Louisiana"	"22"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	40512	Suppressed
+	"Louisiana"	"22"	"2023 "	"2023"	"Asian"	"A"	Suppressed	88319	Suppressed
+	"Louisiana"	"22"	"2023 "	"2023"	"Black or African American"	"2054-5"	38	1491010	2.5
+	"Louisiana"	"22"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3177	Unreliable
+	"Louisiana"	"22"	"2023 "	"2023"	"White"	"2106-3"	166	2860981	5.8
+	"Louisiana"	"22"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	89750	Suppressed
+	"Louisiana"	"22"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	9657	Suppressed
+	"Maine"	"23"	"2018"	"2018"	"Asian"	"A"	0	16674	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	21877	Suppressed
+	"Maine"	"23"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	455	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"White"	"2106-3"	51	1265648	4.0
+	"Maine"	"23"	"2018"	"2018"	"More than one race"	"M"	0	24093	Unreliable
+	"Maine"	"23"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	9767	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"Asian"	"A"	0	17420	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	22691	Suppressed
+	"Maine"	"23"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	455	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"White"	"2106-3"	48	1269326	3.8
+	"Maine"	"23"	"2019"	"2019"	"More than one race"	"M"	0	24553	Unreliable
+	"Maine"	"23"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	9659	Suppressed
+	"Maine"	"23"	"2020"	"2020"	"Asian"	"A"	0	18049	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	23786	Suppressed
+	"Maine"	"23"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	507	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"White"	"2106-3"	72	1273121	5.7
+	"Maine"	"23"	"2020"	"2020"	"More than one race"	"M"	0	25019	Unreliable
+	"Maine"	"23"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	9808	Suppressed
+	"Maine"	"23"	"2021"	"2021"	"Asian"	"A"	0	18786	Unreliable
+	"Maine"	"23"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	24915	Suppressed
+	"Maine"	"23"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	556	Unreliable
+	"Maine"	"23"	"2021"	"2021"	"White"	"2106-3"	70	1292011	5.4
+	"Maine"	"23"	"2021"	"2021"	"More than one race"	"M"	0	26171	Unreliable
+	"Maine"	"23"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	9786	Suppressed
+	"Maine"	"23"	"2022"	"2022"	"Asian"	"A"	0	19143	Unreliable
+	"Maine"	"23"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	27405	Suppressed
+	"Maine"	"23"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	561	Unreliable
+	"Maine"	"23"	"2022"	"2022"	"White"	"2106-3"	78	1301207	6.0
+	"Maine"	"23"	"2022"	"2022"	"More than one race"	"M"	0	27238	Unreliable
+	"Maine"	"23"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	9915	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"Asian"	"A"	0	19468	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	29857	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	578	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"White"	"2106-3"	64	1307850	4.9
+	"Maine"	"23"	"2023 "	"2023"	"More than one race"	"M"	0	28054	Unreliable
+	"Maine"	"23"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36188	Suppressed
+	"Maryland"	"24"	"2018"	"2018"	"Asian"	"A"	Suppressed	405682	Suppressed
+	"Maryland"	"24"	"2018"	"2018"	"Black or African American"	"2054-5"	114	1867592	6.1
+	"Maryland"	"24"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6746	Unreliable
+	"Maryland"	"24"	"2018"	"2018"	"White"	"2106-3"	314	3552355	8.8
+	"Maryland"	"24"	"2018"	"2018"	"More than one race"	"M"	Suppressed	174155	Suppressed
+	"Maryland"	"24"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36840	Suppressed
+	"Maryland"	"24"	"2019"	"2019"	"Asian"	"A"	Suppressed	406303	Suppressed
+	"Maryland"	"24"	"2019"	"2019"	"Black or African American"	"2054-5"	147	1878645	7.8
+	"Maryland"	"24"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	6705	Suppressed
+	"Maryland"	"24"	"2019"	"2019"	"White"	"2106-3"	294	3539444	8.3
+	"Maryland"	"24"	"2019"	"2019"	"More than one race"	"M"	Suppressed	177743	Suppressed
+	"Maryland"	"24"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	38429	Suppressed
+	"Maryland"	"24"	"2020"	"2020"	"Asian"	"A"	Suppressed	415516	Suppressed
+	"Maryland"	"24"	"2020"	"2020"	"Black or African American"	"2054-5"	117	1894597	6.2
+	"Maryland"	"24"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7446	Unreliable
+	"Maryland"	"24"	"2020"	"2020"	"White"	"2106-3"	257	3515375	7.3
+	"Maryland"	"24"	"2020"	"2020"	"More than one race"	"M"	Suppressed	184439	Suppressed
+	"Maryland"	"24"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	40213	Suppressed
+	"Maryland"	"24"	"2021"	"2021"	"Asian"	"A"	Suppressed	427264	Suppressed
+	"Maryland"	"24"	"2021"	"2021"	"Black or African American"	"2054-5"	94	1937665	4.9
+	"Maryland"	"24"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7676	Unreliable
+	"Maryland"	"24"	"2021"	"2021"	"White"	"2106-3"	182	3560883	5.1
+	"Maryland"	"24"	"2021"	"2021"	"More than one race"	"M"	Suppressed	191428	Suppressed
+	"Maryland"	"24"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	43339	Unreliable
+	"Maryland"	"24"	"2022"	"2022"	"Asian"	"A"	Suppressed	435183	Suppressed
+	"Maryland"	"24"	"2022"	"2022"	"Black or African American"	"2054-5"	71	1951658	3.6
+	"Maryland"	"24"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7647	Unreliable
+	"Maryland"	"24"	"2022"	"2022"	"White"	"2106-3"	156	3530719	4.4
+	"Maryland"	"24"	"2022"	"2022"	"More than one race"	"M"	Suppressed	196114	Suppressed
+	"Maryland"	"24"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Maryland"	"24"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	47993	Unreliable
+	"Maryland"	"24"	"2023 "	"2023"	"Asian"	"A"	0	437702	Unreliable
+	"Maryland"	"24"	"2023 "	"2023"	"Black or African American"	"2054-5"	73	1950664	3.7
+	"Maryland"	"24"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8096	Unreliable
+	"Maryland"	"24"	"2023 "	"2023"	"White"	"2106-3"	117	3534025	3.3
+	"Maryland"	"24"	"2023 "	"2023"	"More than one race"	"M"	0	201773	Unreliable
+	"Maryland"	"24"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	34112	Suppressed
+	"Massachusetts"	"25"	"2018"	"2018"	"Asian"	"A"	Suppressed	492508	Suppressed
+	"Massachusetts"	"25"	"2018"	"2018"	"Black or African American"	"2054-5"	12	617097	Unreliable
+	"Massachusetts"	"25"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7417	Unreliable
+	"Massachusetts"	"25"	"2018"	"2018"	"White"	"2106-3"	243	5577194	4.4
+	"Massachusetts"	"25"	"2018"	"2018"	"More than one race"	"M"	Suppressed	173821	Suppressed
+	"Massachusetts"	"25"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	34310	Suppressed
+	"Massachusetts"	"25"	"2019"	"2019"	"Asian"	"A"	0	497517	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"Black or African American"	"2054-5"	17	621902	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7410	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"White"	"2106-3"	216	5554165	3.9
+	"Massachusetts"	"25"	"2019"	"2019"	"More than one race"	"M"	Suppressed	177199	Suppressed
+	"Massachusetts"	"25"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35652	Suppressed
+	"Massachusetts"	"25"	"2020"	"2020"	"Asian"	"A"	Suppressed	512509	Suppressed
+	"Massachusetts"	"25"	"2020"	"2020"	"Black or African American"	"2054-5"	17	634206	Unreliable
+	"Massachusetts"	"25"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7584	Unreliable
+	"Massachusetts"	"25"	"2020"	"2020"	"White"	"2106-3"	250	5522830	4.5
+	"Massachusetts"	"25"	"2020"	"2020"	"More than one race"	"M"	Suppressed	180793	Suppressed
+	"Massachusetts"	"25"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	37002	Suppressed
+	"Massachusetts"	"25"	"2021"	"2021"	"Asian"	"A"	Suppressed	525188	Suppressed
+	"Massachusetts"	"25"	"2021"	"2021"	"Black or African American"	"2054-5"	13	650915	Unreliable
+	"Massachusetts"	"25"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7812	Unreliable
+	"Massachusetts"	"25"	"2021"	"2021"	"White"	"2106-3"	187	5576809	3.4
+	"Massachusetts"	"25"	"2021"	"2021"	"More than one race"	"M"	Suppressed	186997	Suppressed
+	"Massachusetts"	"25"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	36928	Unreliable
+	"Massachusetts"	"25"	"2022"	"2022"	"Asian"	"A"	Suppressed	538245	Suppressed
+	"Massachusetts"	"25"	"2022"	"2022"	"Black or African American"	"2054-5"	15	660810	Unreliable
+	"Massachusetts"	"25"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7789	Unreliable
+	"Massachusetts"	"25"	"2022"	"2022"	"White"	"2106-3"	213	5546349	3.8
+	"Massachusetts"	"25"	"2022"	"2022"	"More than one race"	"M"	Suppressed	191853	Suppressed
+	"Massachusetts"	"25"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Massachusetts"	"25"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	38677	Unreliable
+	"Massachusetts"	"25"	"2023 "	"2023"	"Asian"	"A"	Suppressed	550884	Suppressed
+	"Massachusetts"	"25"	"2023 "	"2023"	"Black or African American"	"2054-5"	19	675303	Unreliable
+	"Massachusetts"	"25"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7962	Unreliable
+	"Massachusetts"	"25"	"2023 "	"2023"	"White"	"2106-3"	136	5530361	2.5
+	"Massachusetts"	"25"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	198212	Suppressed
+	"Massachusetts"	"25"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	73499	Suppressed
+	"Michigan"	"26"	"2018"	"2018"	"Asian"	"A"	Suppressed	337336	Suppressed
+	"Michigan"	"26"	"2018"	"2018"	"Black or African American"	"2054-5"	68	1408392	4.8
+	"Michigan"	"26"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4142	Unreliable
+	"Michigan"	"26"	"2018"	"2018"	"White"	"2106-3"	378	7923927	4.8
+	"Michigan"	"26"	"2018"	"2018"	"More than one race"	"M"	Suppressed	248619	Suppressed
+	"Michigan"	"26"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	73865	Suppressed
+	"Michigan"	"26"	"2019"	"2019"	"Asian"	"A"	Suppressed	336384	Suppressed
+	"Michigan"	"26"	"2019"	"2019"	"Black or African American"	"2054-5"	50	1407890	3.6
+	"Michigan"	"26"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4186	Unreliable
+	"Michigan"	"26"	"2019"	"2019"	"White"	"2106-3"	313	7911567	4.0
+	"Michigan"	"26"	"2019"	"2019"	"More than one race"	"M"	Suppressed	252965	Suppressed
+	"Michigan"	"26"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	73658	Suppressed
+	"Michigan"	"26"	"2020"	"2020"	"Asian"	"A"	Suppressed	338185	Suppressed
+	"Michigan"	"26"	"2020"	"2020"	"Black or African American"	"2054-5"	59	1405195	4.2
+	"Michigan"	"26"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4388	Unreliable
+	"Michigan"	"26"	"2020"	"2020"	"White"	"2106-3"	338	7881327	4.3
+	"Michigan"	"26"	"2020"	"2020"	"More than one race"	"M"	Suppressed	263802	Suppressed
+	"Michigan"	"26"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	75117	Suppressed
+	"Michigan"	"26"	"2021"	"2021"	"Asian"	"A"	Suppressed	343402	Suppressed
+	"Michigan"	"26"	"2021"	"2021"	"Black or African American"	"2054-5"	68	1419656	4.8
+	"Michigan"	"26"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4493	Unreliable
+	"Michigan"	"26"	"2021"	"2021"	"White"	"2106-3"	356	7935511	4.5
+	"Michigan"	"26"	"2021"	"2021"	"More than one race"	"M"	Suppressed	272632	Suppressed
+	"Michigan"	"26"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	74397	Suppressed
+	"Michigan"	"26"	"2022"	"2022"	"Asian"	"A"	Suppressed	352444	Suppressed
+	"Michigan"	"26"	"2022"	"2022"	"Black or African American"	"2054-5"	50	1418343	3.5
+	"Michigan"	"26"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4702	Unreliable
+	"Michigan"	"26"	"2022"	"2022"	"White"	"2106-3"	243	7906333	3.1
+	"Michigan"	"26"	"2022"	"2022"	"More than one race"	"M"	Suppressed	277894	Suppressed
+	"Michigan"	"26"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Michigan"	"26"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	75560	Suppressed
+	"Michigan"	"26"	"2023 "	"2023"	"Asian"	"A"	0	358227	Unreliable
+	"Michigan"	"26"	"2023 "	"2023"	"Black or African American"	"2054-5"	36	1416157	2.5
+	"Michigan"	"26"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4861	Unreliable
+	"Michigan"	"26"	"2023 "	"2023"	"White"	"2106-3"	197	7898677	2.5
+	"Michigan"	"26"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	283779	Suppressed
+	"Michigan"	"26"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	76616	Suppressed
+	"Minnesota"	"27"	"2018"	"2018"	"Asian"	"A"	Suppressed	288975	Suppressed
+	"Minnesota"	"27"	"2018"	"2018"	"Black or African American"	"2054-5"	14	380414	Unreliable
+	"Minnesota"	"27"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4145	Unreliable
+	"Minnesota"	"27"	"2018"	"2018"	"White"	"2106-3"	88	4718176	1.9
+	"Minnesota"	"27"	"2018"	"2018"	"More than one race"	"M"	Suppressed	142853	Suppressed
+	"Minnesota"	"27"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	77479	Suppressed
+	"Minnesota"	"27"	"2019"	"2019"	"Asian"	"A"	0	292507	Unreliable
+	"Minnesota"	"27"	"2019"	"2019"	"Black or African American"	"2054-5"	10	395556	Unreliable
+	"Minnesota"	"27"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4214	Unreliable
+	"Minnesota"	"27"	"2019"	"2019"	"White"	"2106-3"	91	4723931	1.9
+	"Minnesota"	"27"	"2019"	"2019"	"More than one race"	"M"	Suppressed	145945	Suppressed
+	"Minnesota"	"27"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	14	77485	Unreliable
+	"Minnesota"	"27"	"2020"	"2020"	"Asian"	"A"	Suppressed	301058	Suppressed
+	"Minnesota"	"27"	"2020"	"2020"	"Black or African American"	"2054-5"	20	409573	4.9
+	"Minnesota"	"27"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4650	Unreliable
+	"Minnesota"	"27"	"2020"	"2020"	"White"	"2106-3"	135	4711873	2.9
+	"Minnesota"	"27"	"2020"	"2020"	"More than one race"	"M"	Suppressed	152703	Suppressed
+	"Minnesota"	"27"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	10	79214	Unreliable
+	"Minnesota"	"27"	"2021"	"2021"	"Asian"	"A"	Suppressed	306706	Suppressed
+	"Minnesota"	"27"	"2021"	"2021"	"Black or African American"	"2054-5"	24	423656	5.7
+	"Minnesota"	"27"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	4914	Unreliable
+	"Minnesota"	"27"	"2021"	"2021"	"White"	"2106-3"	131	4735626	2.8
+	"Minnesota"	"27"	"2021"	"2021"	"More than one race"	"M"	Suppressed	157274	Suppressed
+	"Minnesota"	"27"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	78885	Suppressed
+	"Minnesota"	"27"	"2022"	"2022"	"Asian"	"A"	0	313223	Unreliable
+	"Minnesota"	"27"	"2022"	"2022"	"Black or African American"	"2054-5"	33	437333	7.5
+	"Minnesota"	"27"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5025	Unreliable
+	"Minnesota"	"27"	"2022"	"2022"	"White"	"2106-3"	105	4722046	2.2
+	"Minnesota"	"27"	"2022"	"2022"	"More than one race"	"M"	Suppressed	160672	Suppressed
+	"Minnesota"	"27"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Minnesota"	"27"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	81410	Suppressed
+	"Minnesota"	"27"	"2023 "	"2023"	"Asian"	"A"	Suppressed	316621	Suppressed
+	"Minnesota"	"27"	"2023 "	"2023"	"Black or African American"	"2054-5"	21	450487	4.7
+	"Minnesota"	"27"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5187	Unreliable
+	"Minnesota"	"27"	"2023 "	"2023"	"White"	"2106-3"	79	4719651	1.7
+	"Minnesota"	"27"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	164559	Suppressed
+	"Minnesota"	"27"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	18423	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Asian"	"A"	0	32152	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Black or African American"	"2054-5"	10	1128912	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1812	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"White"	"2106-3"	77	1766301	4.4
+	"Mississippi"	"28"	"2018"	"2018"	"More than one race"	"M"	0	38930	Unreliable
+	"Mississippi"	"28"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	18705	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"Asian"	"A"	0	33032	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	1124559	Suppressed
+	"Mississippi"	"28"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1806	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"White"	"2106-3"	86	1758081	4.9
+	"Mississippi"	"28"	"2019"	"2019"	"More than one race"	"M"	0	39966	Unreliable
+	"Mississippi"	"28"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	18606	Suppressed
+	"Mississippi"	"28"	"2020"	"2020"	"Asian"	"A"	0	33071	Unreliable
+	"Mississippi"	"28"	"2020"	"2020"	"Black or African American"	"2054-5"	21	1123913	1.9
+	"Mississippi"	"28"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1946	Unreliable
+	"Mississippi"	"28"	"2020"	"2020"	"White"	"2106-3"	90	1748392	5.1
+	"Mississippi"	"28"	"2020"	"2020"	"More than one race"	"M"	Suppressed	40858	Suppressed
+	"Mississippi"	"28"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	18851	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"Asian"	"A"	Suppressed	33467	Suppressed
+	"Mississippi"	"28"	"2021"	"2021"	"Black or African American"	"2054-5"	29	1119623	2.6
+	"Mississippi"	"28"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1957	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"White"	"2106-3"	109	1733991	6.3
+	"Mississippi"	"28"	"2021"	"2021"	"More than one race"	"M"	0	42076	Unreliable
+	"Mississippi"	"28"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	18894	Unreliable
+	"Mississippi"	"28"	"2022"	"2022"	"Asian"	"A"	0	34179	Unreliable
+	"Mississippi"	"28"	"2022"	"2022"	"Black or African American"	"2054-5"	16	1110533	Unreliable
+	"Mississippi"	"28"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	2007	Suppressed
+	"Mississippi"	"28"	"2022"	"2022"	"White"	"2106-3"	81	1729691	4.7
+	"Mississippi"	"28"	"2022"	"2022"	"More than one race"	"M"	0	44753	Unreliable
+	"Mississippi"	"28"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Mississippi"	"28"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	19350	Suppressed
+	"Mississippi"	"28"	"2023 "	"2023"	"Asian"	"A"	0	35118	Unreliable
+	"Mississippi"	"28"	"2023 "	"2023"	"Black or African American"	"2054-5"	17	1111684	Unreliable
+	"Mississippi"	"28"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2090	Unreliable
+	"Mississippi"	"28"	"2023 "	"2023"	"White"	"2106-3"	63	1726482	3.6
+	"Mississippi"	"28"	"2023 "	"2023"	"More than one race"	"M"	0	44966	Unreliable
+	"Mississippi"	"28"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	35019	Unreliable
+	"Missouri"	"29"	"2018"	"2018"	"Asian"	"A"	Suppressed	131046	Suppressed
+	"Missouri"	"29"	"2018"	"2018"	"Black or African American"	"2054-5"	30	724529	4.1
+	"Missouri"	"29"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9585	Unreliable
+	"Missouri"	"29"	"2018"	"2018"	"White"	"2106-3"	210	5082571	4.1
+	"Missouri"	"29"	"2018"	"2018"	"More than one race"	"M"	Suppressed	143702	Suppressed
+	"Missouri"	"29"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35839	Suppressed
+	"Missouri"	"29"	"2019"	"2019"	"Asian"	"A"	0	133312	Unreliable
+	"Missouri"	"29"	"2019"	"2019"	"Black or African American"	"2054-5"	23	725579	3.2
+	"Missouri"	"29"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9857	Unreliable
+	"Missouri"	"29"	"2019"	"2019"	"White"	"2106-3"	208	5086188	4.1
+	"Missouri"	"29"	"2019"	"2019"	"More than one race"	"M"	Suppressed	146653	Suppressed
+	"Missouri"	"29"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36508	Suppressed
+	"Missouri"	"29"	"2020"	"2020"	"Asian"	"A"	Suppressed	136920	Suppressed
+	"Missouri"	"29"	"2020"	"2020"	"Black or African American"	"2054-5"	40	725295	5.5
+	"Missouri"	"29"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10423	Unreliable
+	"Missouri"	"29"	"2020"	"2020"	"White"	"2106-3"	181	5089565	3.6
+	"Missouri"	"29"	"2020"	"2020"	"More than one race"	"M"	Suppressed	152837	Suppressed
+	"Missouri"	"29"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	37409	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"Asian"	"A"	0	138565	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"Black or African American"	"2054-5"	42	727065	5.8
+	"Missouri"	"29"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10836	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"White"	"2106-3"	158	5095927	3.1
+	"Missouri"	"29"	"2021"	"2021"	"More than one race"	"M"	0	158385	Unreliable
+	"Missouri"	"29"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	37863	Suppressed
+	"Missouri"	"29"	"2022"	"2022"	"Asian"	"A"	0	142623	Unreliable
+	"Missouri"	"29"	"2022"	"2022"	"Black or African American"	"2054-5"	31	725317	4.3
+	"Missouri"	"29"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11788	Unreliable
+	"Missouri"	"29"	"2022"	"2022"	"White"	"2106-3"	164	5095625	3.2
+	"Missouri"	"29"	"2022"	"2022"	"More than one race"	"M"	Suppressed	164741	Suppressed
+	"Missouri"	"29"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Missouri"	"29"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	39283	Unreliable
+	"Missouri"	"29"	"2023 "	"2023"	"Asian"	"A"	Suppressed	144255	Suppressed
+	"Missouri"	"29"	"2023 "	"2023"	"Black or African American"	"2054-5"	31	725454	4.3
+	"Missouri"	"29"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	12713	Suppressed
+	"Missouri"	"29"	"2023 "	"2023"	"White"	"2106-3"	115	5104983	2.3
+	"Missouri"	"29"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	169468	Suppressed
+	"Missouri"	"29"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	70603	Suppressed
+	"Montana"	"30"	"2018"	"2018"	"Asian"	"A"	0	9852	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"Black or African American"	"2054-5"	0	6237	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	893	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"White"	"2106-3"	21	945132	2.2
+	"Montana"	"30"	"2018"	"2018"	"More than one race"	"M"	0	29588	Unreliable
+	"Montana"	"30"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	71096	Suppressed
+	"Montana"	"30"	"2019"	"2019"	"Asian"	"A"	0	9833	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Black or African American"	"2054-5"	0	6389	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	920	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"White"	"2106-3"	21	950211	2.2
+	"Montana"	"30"	"2019"	"2019"	"More than one race"	"M"	0	30329	Unreliable
+	"Montana"	"30"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	71078	Suppressed
+	"Montana"	"30"	"2020"	"2020"	"Asian"	"A"	0	10798	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"Black or African American"	"2054-5"	0	6527	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	944	Unreliable
+	"Montana"	"30"	"2020"	"2020"	"White"	"2106-3"	31	959778	3.2
+	"Montana"	"30"	"2020"	"2020"	"More than one race"	"M"	Suppressed	31452	Suppressed
+	"Montana"	"30"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	72551	Suppressed
+	"Montana"	"30"	"2021"	"2021"	"Asian"	"A"	0	11153	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"Black or African American"	"2054-5"	0	6894	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	997	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"White"	"2106-3"	24	980015	2.4
+	"Montana"	"30"	"2021"	"2021"	"More than one race"	"M"	0	32661	Unreliable
+	"Montana"	"30"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	72451	Suppressed
+	"Montana"	"30"	"2022"	"2022"	"Asian"	"A"	Suppressed	12084	Suppressed
+	"Montana"	"30"	"2022"	"2022"	"Black or African American"	"2054-5"	0	6993	Unreliable
+	"Montana"	"30"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1108	Unreliable
+	"Montana"	"30"	"2022"	"2022"	"White"	"2106-3"	27	996179	2.7
+	"Montana"	"30"	"2022"	"2022"	"More than one race"	"M"	0	34052	Unreliable
+	"Montana"	"30"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Montana"	"30"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	72887	Suppressed
+	"Montana"	"30"	"2023 "	"2023"	"Asian"	"A"	0	11977	Unreliable
+	"Montana"	"30"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	7270	Unreliable
+	"Montana"	"30"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1169	Unreliable
+	"Montana"	"30"	"2023 "	"2023"	"White"	"2106-3"	24	1004899	2.4
+	"Montana"	"30"	"2023 "	"2023"	"More than one race"	"M"	0	34610	Unreliable
+	"Montana"	"30"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	28663	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"Asian"	"A"	0	52343	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	98757	Suppressed
+	"Nebraska"	"31"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2338	Unreliable
+	"Nebraska"	"31"	"2018"	"2018"	"White"	"2106-3"	36	1703446	2.1
+	"Nebraska"	"31"	"2018"	"2018"	"More than one race"	"M"	Suppressed	43721	Suppressed
+	"Nebraska"	"31"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	29285	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Asian"	"A"	0	53187	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	100763	Suppressed
+	"Nebraska"	"31"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2349	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"White"	"2106-3"	36	1704129	2.1
+	"Nebraska"	"31"	"2019"	"2019"	"More than one race"	"M"	0	44695	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	30911	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"Asian"	"A"	0	53514	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	102414	Suppressed
+	"Nebraska"	"31"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2543	Unreliable
+	"Nebraska"	"31"	"2020"	"2020"	"White"	"2106-3"	32	1701816	1.9
+	"Nebraska"	"31"	"2020"	"2020"	"More than one race"	"M"	Suppressed	46354	Suppressed
+	"Nebraska"	"31"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	31809	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"Asian"	"A"	0	54620	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	104653	Suppressed
+	"Nebraska"	"31"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2637	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"White"	"2106-3"	40	1721884	2.3
+	"Nebraska"	"31"	"2021"	"2021"	"More than one race"	"M"	0	48089	Unreliable
+	"Nebraska"	"31"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	32344	Unreliable
+	"Nebraska"	"31"	"2022"	"2022"	"Asian"	"A"	0	55591	Unreliable
+	"Nebraska"	"31"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	105601	Suppressed
+	"Nebraska"	"31"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2757	Unreliable
+	"Nebraska"	"31"	"2022"	"2022"	"White"	"2106-3"	29	1721883	1.7
+	"Nebraska"	"31"	"2022"	"2022"	"More than one race"	"M"	0	49747	Unreliable
+	"Nebraska"	"31"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Nebraska"	"31"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	33255	Unreliable
+	"Nebraska"	"31"	"2023 "	"2023"	"Asian"	"A"	0	56371	Unreliable
+	"Nebraska"	"31"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	108042	Suppressed
+	"Nebraska"	"31"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2872	Unreliable
+	"Nebraska"	"31"	"2023 "	"2023"	"White"	"2106-3"	22	1726189	1.3
+	"Nebraska"	"31"	"2023 "	"2023"	"More than one race"	"M"	0	51650	Unreliable
+	"Nebraska"	"31"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	50871	Suppressed
+	"Nevada"	"32"	"2018"	"2018"	"Asian"	"A"	Suppressed	264411	Suppressed
+	"Nevada"	"32"	"2018"	"2018"	"Black or African American"	"2054-5"	19	305848	Unreliable
+	"Nevada"	"32"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	23962	Suppressed
+	"Nevada"	"32"	"2018"	"2018"	"White"	"2106-3"	198	2253711	8.8
+	"Nevada"	"32"	"2018"	"2018"	"More than one race"	"M"	Suppressed	135589	Suppressed
+	"Nevada"	"32"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	51946	Suppressed
+	"Nevada"	"32"	"2019"	"2019"	"Asian"	"A"	Suppressed	268166	Suppressed
+	"Nevada"	"32"	"2019"	"2019"	"Black or African American"	"2054-5"	11	316303	Unreliable
+	"Nevada"	"32"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	24585	Unreliable
+	"Nevada"	"32"	"2019"	"2019"	"White"	"2106-3"	163	2277552	7.2
+	"Nevada"	"32"	"2019"	"2019"	"More than one race"	"M"	Suppressed	141604	Suppressed
+	"Nevada"	"32"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	53182	Suppressed
+	"Nevada"	"32"	"2020"	"2020"	"Asian"	"A"	Suppressed	282006	Suppressed
+	"Nevada"	"32"	"2020"	"2020"	"Black or African American"	"2054-5"	24	328551	7.3
+	"Nevada"	"32"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	26595	Unreliable
+	"Nevada"	"32"	"2020"	"2020"	"White"	"2106-3"	197	2296904	8.6
+	"Nevada"	"32"	"2020"	"2020"	"More than one race"	"M"	Suppressed	151021	Suppressed
+	"Nevada"	"32"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	54145	Unreliable
+	"Nevada"	"32"	"2021"	"2021"	"Asian"	"A"	Suppressed	285911	Suppressed
+	"Nevada"	"32"	"2021"	"2021"	"Black or African American"	"2054-5"	28	334455	8.4
+	"Nevada"	"32"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	27165	Unreliable
+	"Nevada"	"32"	"2021"	"2021"	"White"	"2106-3"	205	2287445	9.0
+	"Nevada"	"32"	"2021"	"2021"	"More than one race"	"M"	Suppressed	154870	Suppressed
+	"Nevada"	"32"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	54495	Suppressed
+	"Nevada"	"32"	"2022"	"2022"	"Asian"	"A"	Suppressed	299940	Suppressed
+	"Nevada"	"32"	"2022"	"2022"	"Black or African American"	"2054-5"	20	344357	5.8
+	"Nevada"	"32"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	28000	Suppressed
+	"Nevada"	"32"	"2022"	"2022"	"White"	"2106-3"	155	2290214	6.8
+	"Nevada"	"32"	"2022"	"2022"	"More than one race"	"M"	Suppressed	160766	Suppressed
+	"Nevada"	"32"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Nevada"	"32"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	54687	Suppressed
+	"Nevada"	"32"	"2023 "	"2023"	"Asian"	"A"	Suppressed	310590	Suppressed
+	"Nevada"	"32"	"2023 "	"2023"	"Black or African American"	"2054-5"	18	351346	Unreliable
+	"Nevada"	"32"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	28514	Unreliable
+	"Nevada"	"32"	"2023 "	"2023"	"White"	"2106-3"	145	2283527	6.3
+	"Nevada"	"32"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	165512	Suppressed
+	"Nevada"	"32"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	4090	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"Asian"	"A"	0	40460	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"Black or African American"	"2054-5"	0	23293	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	637	Unreliable
+	"New Hampshire"	"33"	"2018"	"2018"	"White"	"2106-3"	35	1264217	2.8
+	"New Hampshire"	"33"	"2018"	"2018"	"More than one race"	"M"	Suppressed	23761	Suppressed
+	"New Hampshire"	"33"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	4114	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"Asian"	"A"	0	40300	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	24371	Suppressed
+	"New Hampshire"	"33"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	672	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"White"	"2106-3"	37	1266097	2.9
+	"New Hampshire"	"33"	"2019"	"2019"	"More than one race"	"M"	0	24157	Unreliable
+	"New Hampshire"	"33"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	4221	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Asian"	"A"	0	41734	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Black or African American"	"2054-5"	0	25564	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	733	Unreliable
+	"New Hampshire"	"33"	"2020"	"2020"	"White"	"2106-3"	29	1269425	2.3
+	"New Hampshire"	"33"	"2020"	"2020"	"More than one race"	"M"	Suppressed	24598	Suppressed
+	"New Hampshire"	"33"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	4341	Suppressed
+	"New Hampshire"	"33"	"2021"	"2021"	"Asian"	"A"	0	42912	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	26779	Suppressed
+	"New Hampshire"	"33"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	747	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"White"	"2106-3"	35	1288649	2.7
+	"New Hampshire"	"33"	"2021"	"2021"	"More than one race"	"M"	0	25564	Unreliable
+	"New Hampshire"	"33"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	4426	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"Asian"	"A"	0	44265	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"Black or African American"	"2054-5"	0	27993	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	875	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"White"	"2106-3"	14	1291413	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"More than one race"	"M"	0	26259	Unreliable
+	"New Hampshire"	"33"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	4559	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"Asian"	"A"	0	43868	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	28784	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	846	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"White"	"2106-3"	26	1297231	2.0
+	"New Hampshire"	"33"	"2023 "	"2023"	"More than one race"	"M"	0	26766	Unreliable
+	"New Hampshire"	"33"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	54706	Unreliable
+	"New Jersey"	"34"	"2018"	"2018"	"Asian"	"A"	Suppressed	889251	Suppressed
+	"New Jersey"	"34"	"2018"	"2018"	"Black or African American"	"2054-5"	74	1337754	5.5
+	"New Jersey"	"34"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9984	Unreliable
+	"New Jersey"	"34"	"2018"	"2018"	"White"	"2106-3"	340	6416347	5.3
+	"New Jersey"	"34"	"2018"	"2018"	"More than one race"	"M"	Suppressed	200478	Suppressed
+	"New Jersey"	"34"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	55429	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"Asian"	"A"	Suppressed	886810	Suppressed
+	"New Jersey"	"34"	"2019"	"2019"	"Black or African American"	"2054-5"	63	1337457	4.7
+	"New Jersey"	"34"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10240	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"White"	"2106-3"	306	6388804	4.8
+	"New Jersey"	"34"	"2019"	"2019"	"More than one race"	"M"	Suppressed	203450	Suppressed
+	"New Jersey"	"34"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	60310	Unreliable
+	"New Jersey"	"34"	"2020"	"2020"	"Asian"	"A"	Suppressed	908286	Suppressed
+	"New Jersey"	"34"	"2020"	"2020"	"Black or African American"	"2054-5"	56	1352737	4.1
+	"New Jersey"	"34"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10958	Unreliable
+	"New Jersey"	"34"	"2020"	"2020"	"White"	"2106-3"	289	6342691	4.6
+	"New Jersey"	"34"	"2020"	"2020"	"More than one race"	"M"	Suppressed	207389	Suppressed
+	"New Jersey"	"34"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	64812	Unreliable
+	"New Jersey"	"34"	"2021"	"2021"	"Asian"	"A"	Suppressed	957387	Suppressed
+	"New Jersey"	"34"	"2021"	"2021"	"Black or African American"	"2054-5"	58	1419801	4.1
+	"New Jersey"	"34"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11683	Unreliable
+	"New Jersey"	"34"	"2021"	"2021"	"White"	"2106-3"	287	6593546	4.4
+	"New Jersey"	"34"	"2021"	"2021"	"More than one race"	"M"	Suppressed	219901	Suppressed
+	"New Jersey"	"34"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	67366	Unreliable
+	"New Jersey"	"34"	"2022"	"2022"	"Asian"	"A"	Suppressed	976812	Suppressed
+	"New Jersey"	"34"	"2022"	"2022"	"Black or African American"	"2054-5"	50	1429864	3.5
+	"New Jersey"	"34"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12286	Unreliable
+	"New Jersey"	"34"	"2022"	"2022"	"White"	"2106-3"	206	6549769	3.1
+	"New Jersey"	"34"	"2022"	"2022"	"More than one race"	"M"	Suppressed	225602	Suppressed
+	"New Jersey"	"34"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"New Jersey"	"34"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	72328	Unreliable
+	"New Jersey"	"34"	"2023 "	"2023"	"Asian"	"A"	Suppressed	988989	Suppressed
+	"New Jersey"	"34"	"2023 "	"2023"	"Black or African American"	"2054-5"	56	1442900	3.9
+	"New Jersey"	"34"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13612	Unreliable
+	"New Jersey"	"34"	"2023 "	"2023"	"White"	"2106-3"	216	6540982	3.3
+	"New Jersey"	"34"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	232030	Suppressed
+	"New Jersey"	"34"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	228493	Suppressed
+	"New Mexico"	"35"	"2018"	"2018"	"Asian"	"A"	0	37256	Unreliable
+	"New Mexico"	"35"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	53576	Suppressed
+	"New Mexico"	"35"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3404	Unreliable
+	"New Mexico"	"35"	"2018"	"2018"	"White"	"2106-3"	132	1718901	7.7
+	"New Mexico"	"35"	"2018"	"2018"	"More than one race"	"M"	Suppressed	53798	Suppressed
+	"New Mexico"	"35"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	229794	Suppressed
+	"New Mexico"	"35"	"2019"	"2019"	"Asian"	"A"	0	37550	Unreliable
+	"New Mexico"	"35"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	54772	Suppressed
+	"New Mexico"	"35"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3341	Unreliable
+	"New Mexico"	"35"	"2019"	"2019"	"White"	"2106-3"	131	1716656	7.6
+	"New Mexico"	"35"	"2019"	"2019"	"More than one race"	"M"	Suppressed	54716	Suppressed
+	"New Mexico"	"35"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	233214	Suppressed
+	"New Mexico"	"35"	"2020"	"2020"	"Asian"	"A"	Suppressed	39553	Suppressed
+	"New Mexico"	"35"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	56543	Suppressed
+	"New Mexico"	"35"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	3493	Suppressed
+	"New Mexico"	"35"	"2020"	"2020"	"White"	"2106-3"	148	1716720	8.6
+	"New Mexico"	"35"	"2020"	"2020"	"More than one race"	"M"	Suppressed	56796	Suppressed
+	"New Mexico"	"35"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	11	236809	Unreliable
+	"New Mexico"	"35"	"2021"	"2021"	"Asian"	"A"	Suppressed	39851	Suppressed
+	"New Mexico"	"35"	"2021"	"2021"	"Black or African American"	"2054-5"	0	57350	Unreliable
+	"New Mexico"	"35"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3528	Unreliable
+	"New Mexico"	"35"	"2021"	"2021"	"White"	"2106-3"	143	1720615	8.3
+	"New Mexico"	"35"	"2021"	"2021"	"More than one race"	"M"	Suppressed	57724	Suppressed
+	"New Mexico"	"35"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	236149	Suppressed
+	"New Mexico"	"35"	"2022"	"2022"	"Asian"	"A"	0	41247	Unreliable
+	"New Mexico"	"35"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	58095	Suppressed
+	"New Mexico"	"35"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3515	Unreliable
+	"New Mexico"	"35"	"2022"	"2022"	"White"	"2106-3"	102	1714851	5.9
+	"New Mexico"	"35"	"2022"	"2022"	"More than one race"	"M"	Suppressed	59487	Suppressed
+	"New Mexico"	"35"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"New Mexico"	"35"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	241063	Suppressed
+	"New Mexico"	"35"	"2023 "	"2023"	"Asian"	"A"	0	43031	Unreliable
+	"New Mexico"	"35"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	60042	Suppressed
+	"New Mexico"	"35"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3593	Unreliable
+	"New Mexico"	"35"	"2023 "	"2023"	"White"	"2106-3"	92	1706885	5.4
+	"New Mexico"	"35"	"2023 "	"2023"	"More than one race"	"M"	0	59757	Unreliable
+	"New Mexico"	"35"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	190414	Suppressed
+	"New York"	"36"	"2018"	"2018"	"Asian"	"A"	Suppressed	1750013	Suppressed
+	"New York"	"36"	"2018"	"2018"	"Black or African American"	"2054-5"	89	3447729	2.6
+	"New York"	"36"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	26745	Unreliable
+	"New York"	"36"	"2018"	"2018"	"White"	"2106-3"	704	13619931	5.2
+	"New York"	"36"	"2018"	"2018"	"More than one race"	"M"	Suppressed	507377	Suppressed
+	"New York"	"36"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	189748	Unreliable
+	"New York"	"36"	"2019"	"2019"	"Asian"	"A"	Suppressed	1753199	Suppressed
+	"New York"	"36"	"2019"	"2019"	"Black or African American"	"2054-5"	105	3421123	3.1
+	"New York"	"36"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	27034	Unreliable
+	"New York"	"36"	"2019"	"2019"	"White"	"2106-3"	624	13546776	4.6
+	"New York"	"36"	"2019"	"2019"	"More than one race"	"M"	Suppressed	515681	Suppressed
+	"New York"	"36"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	196693	Suppressed
+	"New York"	"36"	"2020"	"2020"	"Asian"	"A"	10	1782587	Unreliable
+	"New York"	"36"	"2020"	"2020"	"Black or African American"	"2054-5"	163	3410644	4.8
+	"New York"	"36"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	27911	Unreliable
+	"New York"	"36"	"2020"	"2020"	"White"	"2106-3"	781	13395980	5.8
+	"New York"	"36"	"2020"	"2020"	"More than one race"	"M"	Suppressed	522961	Suppressed
+	"New York"	"36"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	204766	Suppressed
+	"New York"	"36"	"2021"	"2021"	"Asian"	"A"	13	1845668	Unreliable
+	"New York"	"36"	"2021"	"2021"	"Black or African American"	"2054-5"	201	3499231	5.7
+	"New York"	"36"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	28858	Unreliable
+	"New York"	"36"	"2021"	"2021"	"White"	"2106-3"	785	13711327	5.7
+	"New York"	"36"	"2021"	"2021"	"More than one race"	"M"	Suppressed	546063	Suppressed
+	"New York"	"36"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	205972	Suppressed
+	"New York"	"36"	"2022"	"2022"	"Asian"	"A"	13	1894327	Unreliable
+	"New York"	"36"	"2022"	"2022"	"Black or African American"	"2054-5"	197	3491532	5.6
+	"New York"	"36"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	28627	Unreliable
+	"New York"	"36"	"2022"	"2022"	"White"	"2106-3"	696	13501459	5.2
+	"New York"	"36"	"2022"	"2022"	"More than one race"	"M"	Suppressed	555234	Suppressed
+	"New York"	"36"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"New York"	"36"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	208676	Suppressed
+	"New York"	"36"	"2023 "	"2023"	"Asian"	"A"	Suppressed	1904259	Suppressed
+	"New York"	"36"	"2023 "	"2023"	"Black or African American"	"2054-5"	188	3457457	5.4
+	"New York"	"36"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	28938	Unreliable
+	"New York"	"36"	"2023 "	"2023"	"White"	"2106-3"	580	13408792	4.3
+	"New York"	"36"	"2023 "	"2023"	"More than one race"	"M"	10	563094	Unreliable
+	"New York"	"36"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	10	163078	Unreliable
+	"North Carolina"	"37"	"2018"	"2018"	"Asian"	"A"	0	329284	Unreliable
+	"North Carolina"	"37"	"2018"	"2018"	"Black or African American"	"2054-5"	37	2306797	1.6
+	"North Carolina"	"37"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12989	Unreliable
+	"North Carolina"	"37"	"2018"	"2018"	"White"	"2106-3"	381	7334411	5.2
+	"North Carolina"	"37"	"2018"	"2018"	"More than one race"	"M"	Suppressed	237061	Suppressed
+	"North Carolina"	"37"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	13	165597	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"Asian"	"A"	0	334299	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"Black or African American"	"2054-5"	36	2330563	1.5
+	"North Carolina"	"37"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	13130	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"White"	"2106-3"	317	7399487	4.3
+	"North Carolina"	"37"	"2019"	"2019"	"More than one race"	"M"	Suppressed	245008	Suppressed
+	"North Carolina"	"37"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	12	168343	Unreliable
+	"North Carolina"	"37"	"2020"	"2020"	"Asian"	"A"	Suppressed	353258	Suppressed
+	"North Carolina"	"37"	"2020"	"2020"	"Black or African American"	"2054-5"	56	2357626	2.4
+	"North Carolina"	"37"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	14988	Unreliable
+	"North Carolina"	"37"	"2020"	"2020"	"White"	"2106-3"	340	7449248	4.6
+	"North Carolina"	"37"	"2020"	"2020"	"More than one race"	"M"	Suppressed	257360	Suppressed
+	"North Carolina"	"37"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	22	168957	13.0
+	"North Carolina"	"37"	"2021"	"2021"	"Asian"	"A"	Suppressed	358902	Suppressed
+	"North Carolina"	"37"	"2021"	"2021"	"Black or African American"	"2054-5"	60	2349731	2.6
+	"North Carolina"	"37"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	15452	Unreliable
+	"North Carolina"	"37"	"2021"	"2021"	"White"	"2106-3"	391	7392234	5.3
+	"North Carolina"	"37"	"2021"	"2021"	"More than one race"	"M"	Suppressed	265886	Suppressed
+	"North Carolina"	"37"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	12	166226	Unreliable
+	"North Carolina"	"37"	"2022"	"2022"	"Asian"	"A"	0	383271	Unreliable
+	"North Carolina"	"37"	"2022"	"2022"	"Black or African American"	"2054-5"	68	2373876	2.9
+	"North Carolina"	"37"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	15878	Unreliable
+	"North Carolina"	"37"	"2022"	"2022"	"White"	"2106-3"	400	7480293	5.3
+	"North Carolina"	"37"	"2022"	"2022"	"More than one race"	"M"	0	279429	Unreliable
+	"North Carolina"	"37"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"North Carolina"	"37"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	10	172807	Unreliable
+	"North Carolina"	"37"	"2023 "	"2023"	"Asian"	"A"	Suppressed	399358	Suppressed
+	"North Carolina"	"37"	"2023 "	"2023"	"Black or African American"	"2054-5"	48	2392417	2.0
+	"North Carolina"	"37"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	16677	Unreliable
+	"North Carolina"	"37"	"2023 "	"2023"	"White"	"2106-3"	290	7564526	3.8
+	"North Carolina"	"37"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	289706	Suppressed
+	"North Carolina"	"37"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	41962	Suppressed
+	"North Dakota"	"38"	"2018"	"2018"	"Asian"	"A"	0	13426	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"Black or African American"	"2054-5"	0	25620	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	573	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"White"	"2106-3"	18	661549	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	"More than one race"	"M"	Suppressed	16947	Suppressed
+	"North Dakota"	"38"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	42465	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	"Asian"	"A"	0	12860	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	25984	Suppressed
+	"North Dakota"	"38"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	615	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"White"	"2106-3"	18	662555	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"More than one race"	"M"	0	17583	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	42873	Suppressed
+	"North Dakota"	"38"	"2020"	"2020"	"Asian"	"A"	0	13090	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Black or African American"	"2054-5"	0	26634	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	666	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"White"	"2106-3"	14	663899	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"More than one race"	"M"	0	18147	Unreliable
+	"North Dakota"	"38"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	43905	Suppressed
+	"North Dakota"	"38"	"2021"	"2021"	"Asian"	"A"	0	12869	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"Black or African American"	"2054-5"	0	27157	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	713	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"White"	"2106-3"	16	671664	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"More than one race"	"M"	0	18640	Unreliable
+	"North Dakota"	"38"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	41435	Suppressed
+	"North Dakota"	"38"	"2022"	"2022"	"Asian"	"A"	0	13611	Unreliable
+	"North Dakota"	"38"	"2022"	"2022"	"Black or African American"	"2054-5"	0	28128	Unreliable
+	"North Dakota"	"38"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	919	Unreliable
+	"North Dakota"	"38"	"2022"	"2022"	"White"	"2106-3"	11	675085	Unreliable
+	"North Dakota"	"38"	"2022"	"2022"	"More than one race"	"M"	Suppressed	20083	Suppressed
+	"North Dakota"	"38"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"North Dakota"	"38"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	41390	Suppressed
+	"North Dakota"	"38"	"2023 "	"2023"	"Asian"	"A"	0	13686	Unreliable
+	"North Dakota"	"38"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	29447	Unreliable
+	"North Dakota"	"38"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1219	Unreliable
+	"North Dakota"	"38"	"2023 "	"2023"	"White"	"2106-3"	Suppressed	677695	Suppressed
+	"North Dakota"	"38"	"2023 "	"2023"	"More than one race"	"M"	0	20489	Unreliable
+	"North Dakota"	"38"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	33566	Unreliable
+	"Ohio"	"39"	"2018"	"2018"	"Asian"	"A"	0	287222	Unreliable
+	"Ohio"	"39"	"2018"	"2018"	"Black or African American"	"2054-5"	44	1517999	2.9
+	"Ohio"	"39"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6994	Unreliable
+	"Ohio"	"39"	"2018"	"2018"	"White"	"2106-3"	484	9571522	5.1
+	"Ohio"	"39"	"2018"	"2018"	"More than one race"	"M"	Suppressed	272139	Suppressed
+	"Ohio"	"39"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	34010	Suppressed
+	"Ohio"	"39"	"2019"	"2019"	"Asian"	"A"	Suppressed	291478	Suppressed
+	"Ohio"	"39"	"2019"	"2019"	"Black or African American"	"2054-5"	52	1525570	3.4
+	"Ohio"	"39"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7055	Unreliable
+	"Ohio"	"39"	"2019"	"2019"	"White"	"2106-3"	392	9552736	4.1
+	"Ohio"	"39"	"2019"	"2019"	"More than one race"	"M"	Suppressed	278251	Suppressed
+	"Ohio"	"39"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	34561	Unreliable
+	"Ohio"	"39"	"2020"	"2020"	"Asian"	"A"	Suppressed	304804	Suppressed
+	"Ohio"	"39"	"2020"	"2020"	"Black or African American"	"2054-5"	50	1535995	3.3
+	"Ohio"	"39"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7826	Unreliable
+	"Ohio"	"39"	"2020"	"2020"	"White"	"2106-3"	413	9517953	4.3
+	"Ohio"	"39"	"2020"	"2020"	"More than one race"	"M"	Suppressed	292078	Suppressed
+	"Ohio"	"39"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35442	Suppressed
+	"Ohio"	"39"	"2021"	"2021"	"Asian"	"A"	Suppressed	312896	Suppressed
+	"Ohio"	"39"	"2021"	"2021"	"Black or African American"	"2054-5"	63	1560246	4.0
+	"Ohio"	"39"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8043	Unreliable
+	"Ohio"	"39"	"2021"	"2021"	"White"	"2106-3"	374	9560342	3.9
+	"Ohio"	"39"	"2021"	"2021"	"More than one race"	"M"	Suppressed	303048	Suppressed
+	"Ohio"	"39"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35841	Suppressed
+	"Ohio"	"39"	"2022"	"2022"	"Asian"	"A"	Suppressed	323165	Suppressed
+	"Ohio"	"39"	"2022"	"2022"	"Black or African American"	"2054-5"	56	1565976	3.6
+	"Ohio"	"39"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8420	Unreliable
+	"Ohio"	"39"	"2022"	"2022"	"White"	"2106-3"	332	9509945	3.5
+	"Ohio"	"39"	"2022"	"2022"	"More than one race"	"M"	Suppressed	312711	Suppressed
+	"Ohio"	"39"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Ohio"	"39"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	37792	Suppressed
+	"Ohio"	"39"	"2023 "	"2023"	"Asian"	"A"	0	331040	Unreliable
+	"Ohio"	"39"	"2023 "	"2023"	"Black or African American"	"2054-5"	54	1582177	3.4
+	"Ohio"	"39"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8883	Unreliable
+	"Ohio"	"39"	"2023 "	"2023"	"White"	"2106-3"	282	9502944	3.0
+	"Ohio"	"39"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	323099	Suppressed
+	"Ohio"	"39"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	12	367043	Unreliable
+	"Oklahoma"	"40"	"2018"	"2018"	"Asian"	"A"	Suppressed	92179	Suppressed
+	"Oklahoma"	"40"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	306890	Suppressed
+	"Oklahoma"	"40"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7568	Unreliable
+	"Oklahoma"	"40"	"2018"	"2018"	"White"	"2106-3"	139	2924365	4.8
+	"Oklahoma"	"40"	"2018"	"2018"	"More than one race"	"M"	Suppressed	245034	Suppressed
+	"Oklahoma"	"40"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	371104	Suppressed
+	"Oklahoma"	"40"	"2019"	"2019"	"Asian"	"A"	Suppressed	94253	Suppressed
+	"Oklahoma"	"40"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	307819	Suppressed
+	"Oklahoma"	"40"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8581	Unreliable
+	"Oklahoma"	"40"	"2019"	"2019"	"White"	"2106-3"	102	2927354	3.5
+	"Oklahoma"	"40"	"2019"	"2019"	"More than one race"	"M"	Suppressed	247860	Suppressed
+	"Oklahoma"	"40"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	382154	Suppressed
+	"Oklahoma"	"40"	"2020"	"2020"	"Asian"	"A"	0	96016	Unreliable
+	"Oklahoma"	"40"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	310208	Suppressed
+	"Oklahoma"	"40"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9202	Unreliable
+	"Oklahoma"	"40"	"2020"	"2020"	"White"	"2106-3"	93	2925794	3.2
+	"Oklahoma"	"40"	"2020"	"2020"	"More than one race"	"M"	Suppressed	257409	Suppressed
+	"Oklahoma"	"40"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	11	386610	Unreliable
+	"Oklahoma"	"40"	"2021"	"2021"	"Asian"	"A"	0	98311	Unreliable
+	"Oklahoma"	"40"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	312869	Suppressed
+	"Oklahoma"	"40"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9597	Unreliable
+	"Oklahoma"	"40"	"2021"	"2021"	"White"	"2106-3"	94	2917360	3.2
+	"Oklahoma"	"40"	"2021"	"2021"	"More than one race"	"M"	Suppressed	261892	Suppressed
+	"Oklahoma"	"40"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	11	382638	Unreliable
+	"Oklahoma"	"40"	"2022"	"2022"	"Asian"	"A"	0	103765	Unreliable
+	"Oklahoma"	"40"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	318339	Suppressed
+	"Oklahoma"	"40"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10079	Unreliable
+	"Oklahoma"	"40"	"2022"	"2022"	"White"	"2106-3"	101	2936122	3.4
+	"Oklahoma"	"40"	"2022"	"2022"	"More than one race"	"M"	Suppressed	268857	Suppressed
+	"Oklahoma"	"40"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Oklahoma"	"40"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	15	386895	Unreliable
+	"Oklahoma"	"40"	"2023 "	"2023"	"Asian"	"A"	0	106828	Unreliable
+	"Oklahoma"	"40"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	321327	Suppressed
+	"Oklahoma"	"40"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10399	Unreliable
+	"Oklahoma"	"40"	"2023 "	"2023"	"White"	"2106-3"	89	2954232	3.0
+	"Oklahoma"	"40"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	274143	Suppressed
+	"Oklahoma"	"40"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	76023	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"Asian"	"A"	Suppressed	202394	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	92958	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	18999	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"White"	"2106-3"	119	3635926	3.3
+	"Oregon"	"41"	"2018"	"2018"	"More than one race"	"M"	Suppressed	164413	Suppressed
+	"Oregon"	"41"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	77115	Suppressed
+	"Oregon"	"41"	"2019"	"2019"	"Asian"	"A"	0	204739	Unreliable
+	"Oregon"	"41"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	93740	Suppressed
+	"Oregon"	"41"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	19245	Unreliable
+	"Oregon"	"41"	"2019"	"2019"	"White"	"2106-3"	97	3655136	2.7
+	"Oregon"	"41"	"2019"	"2019"	"More than one race"	"M"	Suppressed	167762	Suppressed
+	"Oregon"	"41"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	78690	Suppressed
+	"Oregon"	"41"	"2020"	"2020"	"Asian"	"A"	0	208564	Unreliable
+	"Oregon"	"41"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	94923	Suppressed
+	"Oregon"	"41"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	20138	Unreliable
+	"Oregon"	"41"	"2020"	"2020"	"White"	"2106-3"	108	3664352	2.9
+	"Oregon"	"41"	"2020"	"2020"	"More than one race"	"M"	Suppressed	174840	Suppressed
+	"Oregon"	"41"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	80314	Suppressed
+	"Oregon"	"41"	"2021"	"2021"	"Asian"	"A"	0	210456	Unreliable
+	"Oregon"	"41"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	96520	Suppressed
+	"Oregon"	"41"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	20379	Unreliable
+	"Oregon"	"41"	"2021"	"2021"	"White"	"2106-3"	163	3659596	4.5
+	"Oregon"	"41"	"2021"	"2021"	"More than one race"	"M"	Suppressed	178890	Suppressed
+	"Oregon"	"41"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	80145	Suppressed
+	"Oregon"	"41"	"2022"	"2022"	"Asian"	"A"	0	217147	Unreliable
+	"Oregon"	"41"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	99222	Suppressed
+	"Oregon"	"41"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	20692	Unreliable
+	"Oregon"	"41"	"2022"	"2022"	"White"	"2106-3"	123	3640385	3.4
+	"Oregon"	"41"	"2022"	"2022"	"More than one race"	"M"	Suppressed	182546	Suppressed
+	"Oregon"	"41"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Oregon"	"41"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	81038	Suppressed
+	"Oregon"	"41"	"2023 "	"2023"	"Asian"	"A"	Suppressed	219823	Suppressed
+	"Oregon"	"41"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	101360	Suppressed
+	"Oregon"	"41"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	21141	Unreliable
+	"Oregon"	"41"	"2023 "	"2023"	"White"	"2106-3"	121	3624265	3.3
+	"Oregon"	"41"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	185731	Suppressed
+	"Oregon"	"41"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	49563	Suppressed
+	"Pennsylvania"	"42"	"2018"	"2018"	"Asian"	"A"	Suppressed	474071	Suppressed
+	"Pennsylvania"	"42"	"2018"	"2018"	"Black or African American"	"2054-5"	80	1531457	5.2
+	"Pennsylvania"	"42"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10056	Unreliable
+	"Pennsylvania"	"42"	"2018"	"2018"	"White"	"2106-3"	520	10476085	5.0
+	"Pennsylvania"	"42"	"2018"	"2018"	"More than one race"	"M"	Suppressed	265828	Suppressed
+	"Pennsylvania"	"42"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	50687	Suppressed
+	"Pennsylvania"	"42"	"2019"	"2019"	"Asian"	"A"	Suppressed	481877	Suppressed
+	"Pennsylvania"	"42"	"2019"	"2019"	"Black or African American"	"2054-5"	78	1540092	5.1
+	"Pennsylvania"	"42"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9994	Unreliable
+	"Pennsylvania"	"42"	"2019"	"2019"	"White"	"2106-3"	435	10447062	4.2
+	"Pennsylvania"	"42"	"2019"	"2019"	"More than one race"	"M"	Suppressed	272277	Suppressed
+	"Pennsylvania"	"42"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	53447	Suppressed
+	"Pennsylvania"	"42"	"2020"	"2020"	"Asian"	"A"	Suppressed	494543	Suppressed
+	"Pennsylvania"	"42"	"2020"	"2020"	"Black or African American"	"2054-5"	101	1551913	6.5
+	"Pennsylvania"	"42"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11182	Unreliable
+	"Pennsylvania"	"42"	"2020"	"2020"	"White"	"2106-3"	519	10388566	5.0
+	"Pennsylvania"	"42"	"2020"	"2020"	"More than one race"	"M"	Suppressed	283603	Suppressed
+	"Pennsylvania"	"42"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	55873	Unreliable
+	"Pennsylvania"	"42"	"2021"	"2021"	"Asian"	"A"	Suppressed	512050	Suppressed
+	"Pennsylvania"	"42"	"2021"	"2021"	"Black or African American"	"2054-5"	109	1586231	6.9
+	"Pennsylvania"	"42"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	11476	Suppressed
+	"Pennsylvania"	"42"	"2021"	"2021"	"White"	"2106-3"	507	10502382	4.8
+	"Pennsylvania"	"42"	"2021"	"2021"	"More than one race"	"M"	Suppressed	296044	Suppressed
+	"Pennsylvania"	"42"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	57951	Suppressed
+	"Pennsylvania"	"42"	"2022"	"2022"	"Asian"	"A"	Suppressed	532634	Suppressed
+	"Pennsylvania"	"42"	"2022"	"2022"	"Black or African American"	"2054-5"	83	1582451	5.2
+	"Pennsylvania"	"42"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	12056	Suppressed
+	"Pennsylvania"	"42"	"2022"	"2022"	"White"	"2106-3"	400	10479634	3.8
+	"Pennsylvania"	"42"	"2022"	"2022"	"More than one race"	"M"	Suppressed	307282	Suppressed
+	"Pennsylvania"	"42"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Pennsylvania"	"42"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	61028	Unreliable
+	"Pennsylvania"	"42"	"2023 "	"2023"	"Asian"	"A"	Suppressed	542212	Suppressed
+	"Pennsylvania"	"42"	"2023 "	"2023"	"Black or African American"	"2054-5"	69	1588520	4.3
+	"Pennsylvania"	"42"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	12804	Unreliable
+	"Pennsylvania"	"42"	"2023 "	"2023"	"White"	"2106-3"	361	10441408	3.5
+	"Pennsylvania"	"42"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	315711	Suppressed
+	"Pennsylvania"	"42"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	11308	Suppressed
+	"Rhode Island"	"44"	"2018"	"2018"	"Asian"	"A"	Suppressed	38419	Suppressed
+	"Rhode Island"	"44"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	88411	Suppressed
+	"Rhode Island"	"44"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2135	Unreliable
+	"Rhode Island"	"44"	"2018"	"2018"	"White"	"2106-3"	55	887259	6.2
+	"Rhode Island"	"44"	"2018"	"2018"	"More than one race"	"M"	0	29783	Unreliable
+	"Rhode Island"	"44"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	11453	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"Asian"	"A"	Suppressed	39536	Suppressed
+	"Rhode Island"	"44"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	90108	Suppressed
+	"Rhode Island"	"44"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2125	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"White"	"2106-3"	40	885518	4.5
+	"Rhode Island"	"44"	"2019"	"2019"	"More than one race"	"M"	0	30621	Unreliable
+	"Rhode Island"	"44"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	12029	Unreliable
+	"Rhode Island"	"44"	"2020"	"2020"	"Asian"	"A"	Suppressed	38958	Suppressed
+	"Rhode Island"	"44"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	91950	Suppressed
+	"Rhode Island"	"44"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2218	Unreliable
+	"Rhode Island"	"44"	"2020"	"2020"	"White"	"2106-3"	38	880551	4.3
+	"Rhode Island"	"44"	"2020"	"2020"	"More than one race"	"M"	Suppressed	31419	Suppressed
+	"Rhode Island"	"44"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	12780	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"Asian"	"A"	0	40493	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	96864	Suppressed
+	"Rhode Island"	"44"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2325	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"White"	"2106-3"	44	910242	4.8
+	"Rhode Island"	"44"	"2021"	"2021"	"More than one race"	"M"	0	32906	Unreliable
+	"Rhode Island"	"44"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	13379	Unreliable
+	"Rhode Island"	"44"	"2022"	"2022"	"Asian"	"A"	0	40312	Unreliable
+	"Rhode Island"	"44"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	99051	Suppressed
+	"Rhode Island"	"44"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2286	Unreliable
+	"Rhode Island"	"44"	"2022"	"2022"	"White"	"2106-3"	41	905102	4.5
+	"Rhode Island"	"44"	"2022"	"2022"	"More than one race"	"M"	0	33604	Unreliable
+	"Rhode Island"	"44"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Rhode Island"	"44"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	13903	Suppressed
+	"Rhode Island"	"44"	"2023 "	"2023"	"Asian"	"A"	Suppressed	40984	Suppressed
+	"Rhode Island"	"44"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	101424	Suppressed
+	"Rhode Island"	"44"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	2375	Unreliable
+	"Rhode Island"	"44"	"2023 "	"2023"	"White"	"2106-3"	40	903228	4.4
+	"Rhode Island"	"44"	"2023 "	"2023"	"More than one race"	"M"	0	34048	Unreliable
+	"Rhode Island"	"44"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	27694	Suppressed
+	"South Carolina"	"45"	"2018"	"2018"	"Asian"	"A"	0	89962	Unreliable
+	"South Carolina"	"45"	"2018"	"2018"	"Black or African American"	"2054-5"	33	1380145	2.4
+	"South Carolina"	"45"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5153	Unreliable
+	"South Carolina"	"45"	"2018"	"2018"	"White"	"2106-3"	306	3483455	8.8
+	"South Carolina"	"45"	"2018"	"2018"	"More than one race"	"M"	Suppressed	97718	Suppressed
+	"South Carolina"	"45"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	28236	Unreliable
+	"South Carolina"	"45"	"2019"	"2019"	"Asian"	"A"	0	94111	Unreliable
+	"South Carolina"	"45"	"2019"	"2019"	"Black or African American"	"2054-5"	30	1388017	2.2
+	"South Carolina"	"45"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5065	Unreliable
+	"South Carolina"	"45"	"2019"	"2019"	"White"	"2106-3"	314	3532048	8.9
+	"South Carolina"	"45"	"2019"	"2019"	"More than one race"	"M"	Suppressed	101237	Suppressed
+	"South Carolina"	"45"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	29119	Suppressed
+	"South Carolina"	"45"	"2020"	"2020"	"Asian"	"A"	0	98989	Unreliable
+	"South Carolina"	"45"	"2020"	"2020"	"Black or African American"	"2054-5"	39	1398839	2.8
+	"South Carolina"	"45"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5270	Unreliable
+	"South Carolina"	"45"	"2020"	"2020"	"White"	"2106-3"	366	3578889	10.2
+	"South Carolina"	"45"	"2020"	"2020"	"More than one race"	"M"	0	106934	Unreliable
+	"South Carolina"	"45"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	29675	Suppressed
+	"South Carolina"	"45"	"2021"	"2021"	"Asian"	"A"	0	100216	Unreliable
+	"South Carolina"	"45"	"2021"	"2021"	"Black or African American"	"2054-5"	47	1383427	3.4
+	"South Carolina"	"45"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5399	Unreliable
+	"South Carolina"	"45"	"2021"	"2021"	"White"	"2106-3"	340	3561602	9.5
+	"South Carolina"	"45"	"2021"	"2021"	"More than one race"	"M"	0	110386	Unreliable
+	"South Carolina"	"45"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	30137	Suppressed
+	"South Carolina"	"45"	"2022"	"2022"	"Asian"	"A"	Suppressed	105486	Suppressed
+	"South Carolina"	"45"	"2022"	"2022"	"Black or African American"	"2054-5"	42	1386941	3.0
+	"South Carolina"	"45"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	5666	Unreliable
+	"South Carolina"	"45"	"2022"	"2022"	"White"	"2106-3"	318	3637779	8.7
+	"South Carolina"	"45"	"2022"	"2022"	"More than one race"	"M"	Suppressed	116625	Suppressed
+	"South Carolina"	"45"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"South Carolina"	"45"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	32529	Suppressed
+	"South Carolina"	"45"	"2023 "	"2023"	"Asian"	"A"	0	109534	Unreliable
+	"South Carolina"	"45"	"2023 "	"2023"	"Black or African American"	"2054-5"	44	1394802	3.2
+	"South Carolina"	"45"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6048	Unreliable
+	"South Carolina"	"45"	"2023 "	"2023"	"White"	"2106-3"	239	3708583	6.4
+	"South Carolina"	"45"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	122059	Suppressed
+	"South Carolina"	"45"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	79412	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	"Asian"	"A"	0	15093	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"Black or African American"	"2054-5"	0	21000	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	747	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"White"	"2106-3"	Suppressed	744733	Suppressed
+	"South Dakota"	"46"	"2018"	"2018"	"More than one race"	"M"	0	21250	Unreliable
+	"South Dakota"	"46"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	80004	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	"Asian"	"A"	Suppressed	13699	Suppressed
+	"South Dakota"	"46"	"2019"	"2019"	"Black or African American"	"2054-5"	0	20332	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	787	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"White"	"2106-3"	13	748070	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"More than one race"	"M"	0	21767	Unreliable
+	"South Dakota"	"46"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	80052	Suppressed
+	"South Dakota"	"46"	"2020"	"2020"	"Asian"	"A"	0	14971	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"Black or African American"	"2054-5"	0	21455	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	862	Unreliable
+	"South Dakota"	"46"	"2020"	"2020"	"White"	"2106-3"	Suppressed	752682	Suppressed
+	"South Dakota"	"46"	"2020"	"2020"	"More than one race"	"M"	Suppressed	22695	Suppressed
+	"South Dakota"	"46"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	80491	Suppressed
+	"South Dakota"	"46"	"2021"	"2021"	"Asian"	"A"	0	15057	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Black or African American"	"2054-5"	0	22058	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	934	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"White"	"2106-3"	Suppressed	753542	Suppressed
+	"South Dakota"	"46"	"2021"	"2021"	"More than one race"	"M"	0	23294	Unreliable
+	"South Dakota"	"46"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	77481	Suppressed
+	"South Dakota"	"46"	"2022"	"2022"	"Asian"	"A"	0	16264	Unreliable
+	"South Dakota"	"46"	"2022"	"2022"	"Black or African American"	"2054-5"	0	23377	Unreliable
+	"South Dakota"	"46"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1170	Unreliable
+	"South Dakota"	"46"	"2022"	"2022"	"White"	"2106-3"	Suppressed	766469	Suppressed
+	"South Dakota"	"46"	"2022"	"2022"	"More than one race"	"M"	0	25063	Unreliable
+	"South Dakota"	"46"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"South Dakota"	"46"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	78356	Suppressed
+	"South Dakota"	"46"	"2023 "	"2023"	"Asian"	"A"	0	16453	Unreliable
+	"South Dakota"	"46"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	24076	Unreliable
+	"South Dakota"	"46"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	1229	Unreliable
+	"South Dakota"	"46"	"2023 "	"2023"	"White"	"2106-3"	Suppressed	773858	Suppressed
+	"South Dakota"	"46"	"2023 "	"2023"	"More than one race"	"M"	0	25346	Unreliable
+	"South Dakota"	"46"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	31826	Suppressed
+	"Tennessee"	"47"	"2018"	"2018"	"Asian"	"A"	Suppressed	128526	Suppressed
+	"Tennessee"	"47"	"2018"	"2018"	"Black or African American"	"2054-5"	49	1155631	4.2
+	"Tennessee"	"47"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6496	Unreliable
+	"Tennessee"	"47"	"2018"	"2018"	"White"	"2106-3"	466	5315272	8.8
+	"Tennessee"	"47"	"2018"	"2018"	"More than one race"	"M"	Suppressed	132259	Suppressed
+	"Tennessee"	"47"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	32661	Suppressed
+	"Tennessee"	"47"	"2019"	"2019"	"Asian"	"A"	0	134076	Unreliable
+	"Tennessee"	"47"	"2019"	"2019"	"Black or African American"	"2054-5"	66	1164461	5.7
+	"Tennessee"	"47"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	6578	Unreliable
+	"Tennessee"	"47"	"2019"	"2019"	"White"	"2106-3"	429	5354405	8.0
+	"Tennessee"	"47"	"2019"	"2019"	"More than one race"	"M"	Suppressed	136993	Suppressed
+	"Tennessee"	"47"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	33827	Suppressed
+	"Tennessee"	"47"	"2020"	"2020"	"Asian"	"A"	Suppressed	136836	Suppressed
+	"Tennessee"	"47"	"2020"	"2020"	"Black or African American"	"2054-5"	79	1172146	6.7
+	"Tennessee"	"47"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	7165	Suppressed
+	"Tennessee"	"47"	"2020"	"2020"	"White"	"2106-3"	488	5393461	9.0
+	"Tennessee"	"47"	"2020"	"2020"	"More than one race"	"M"	0	143399	Unreliable
+	"Tennessee"	"47"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	35117	Suppressed
+	"Tennessee"	"47"	"2021"	"2021"	"Asian"	"A"	0	140701	Unreliable
+	"Tennessee"	"47"	"2021"	"2021"	"Black or African American"	"2054-5"	92	1184041	7.8
+	"Tennessee"	"47"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7423	Unreliable
+	"Tennessee"	"47"	"2021"	"2021"	"White"	"2106-3"	507	5457887	9.3
+	"Tennessee"	"47"	"2021"	"2021"	"More than one race"	"M"	Suppressed	150049	Suppressed
+	"Tennessee"	"47"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	36702	Suppressed
+	"Tennessee"	"47"	"2022"	"2022"	"Asian"	"A"	Suppressed	146423	Suppressed
+	"Tennessee"	"47"	"2022"	"2022"	"Black or African American"	"2054-5"	71	1180864	6.0
+	"Tennessee"	"47"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	7744	Unreliable
+	"Tennessee"	"47"	"2022"	"2022"	"White"	"2106-3"	397	5521401	7.2
+	"Tennessee"	"47"	"2022"	"2022"	"More than one race"	"M"	Suppressed	158205	Suppressed
+	"Tennessee"	"47"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Tennessee"	"47"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	40623	Unreliable
+	"Tennessee"	"47"	"2023 "	"2023"	"Asian"	"A"	Suppressed	150903	Suppressed
+	"Tennessee"	"47"	"2023 "	"2023"	"Black or African American"	"2054-5"	52	1177596	4.4
+	"Tennessee"	"47"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	8326	Unreliable
+	"Tennessee"	"47"	"2023 "	"2023"	"White"	"2106-3"	338	5584730	6.1
+	"Tennessee"	"47"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	164311	Suppressed
+	"Tennessee"	"47"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	290961	Unreliable
+	"Texas"	"48"	"2018"	"2018"	"Asian"	"A"	Suppressed	1486266	Suppressed
+	"Texas"	"48"	"2018"	"2018"	"Black or African American"	"2054-5"	41	3673855	1.1
+	"Texas"	"48"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	42333	Unreliable
+	"Texas"	"48"	"2018"	"2018"	"White"	"2106-3"	437	22624867	1.9
+	"Texas"	"48"	"2018"	"2018"	"More than one race"	"M"	Suppressed	583563	Suppressed
+	"Texas"	"48"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	294902	Suppressed
+	"Texas"	"48"	"2019"	"2019"	"Asian"	"A"	Suppressed	1510470	Suppressed
+	"Texas"	"48"	"2019"	"2019"	"Black or African American"	"2054-5"	50	3739221	1.3
+	"Texas"	"48"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	43212	Unreliable
+	"Texas"	"48"	"2019"	"2019"	"White"	"2106-3"	410	22806130	1.8
+	"Texas"	"48"	"2019"	"2019"	"More than one race"	"M"	Suppressed	601946	Suppressed
+	"Texas"	"48"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	307285	Suppressed
+	"Texas"	"48"	"2020"	"2020"	"Asian"	"A"	Suppressed	1584830	Suppressed
+	"Texas"	"48"	"2020"	"2020"	"Black or African American"	"2054-5"	72	3844253	1.9
+	"Texas"	"48"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	45057	Unreliable
+	"Texas"	"48"	"2020"	"2020"	"White"	"2106-3"	486	22958002	2.1
+	"Texas"	"48"	"2020"	"2020"	"More than one race"	"M"	0	621332	Unreliable
+	"Texas"	"48"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	314130	Unreliable
+	"Texas"	"48"	"2021"	"2021"	"Asian"	"A"	Suppressed	1616815	Suppressed
+	"Texas"	"48"	"2021"	"2021"	"Black or African American"	"2054-5"	82	3894860	2.1
+	"Texas"	"48"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	46266	Unreliable
+	"Texas"	"48"	"2021"	"2021"	"White"	"2106-3"	563	23012250	2.4
+	"Texas"	"48"	"2021"	"2021"	"More than one race"	"M"	Suppressed	643620	Suppressed
+	"Texas"	"48"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	322443	Unreliable
+	"Texas"	"48"	"2022"	"2022"	"Asian"	"A"	Suppressed	1716675	Suppressed
+	"Texas"	"48"	"2022"	"2022"	"Black or African American"	"2054-5"	89	4020772	2.2
+	"Texas"	"48"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	48656	Suppressed
+	"Texas"	"48"	"2022"	"2022"	"White"	"2106-3"	599	23242116	2.6
+	"Texas"	"48"	"2022"	"2022"	"More than one race"	"M"	Suppressed	678910	Suppressed
+	"Texas"	"48"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Texas"	"48"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	331189	Suppressed
+	"Texas"	"48"	"2023 "	"2023"	"Asian"	"A"	Suppressed	1819202	Suppressed
+	"Texas"	"48"	"2023 "	"2023"	"Black or African American"	"2054-5"	92	4157785	2.2
+	"Texas"	"48"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	50428	Unreliable
+	"Texas"	"48"	"2023 "	"2023"	"White"	"2106-3"	529	23436057	2.3
+	"Texas"	"48"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	708640	Suppressed
+	"Texas"	"48"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	48628	Suppressed
+	"Utah"	"49"	"2018"	"2018"	"Asian"	"A"	Suppressed	85389	Suppressed
+	"Utah"	"49"	"2018"	"2018"	"Black or African American"	"2054-5"	0	45700	Unreliable
+	"Utah"	"49"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	33495	Suppressed
+	"Utah"	"49"	"2018"	"2018"	"White"	"2106-3"	285	2865634	9.9
+	"Utah"	"49"	"2018"	"2018"	"More than one race"	"M"	Suppressed	82259	Suppressed
+	"Utah"	"49"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	49720	Suppressed
+	"Utah"	"49"	"2019"	"2019"	"Asian"	"A"	Suppressed	85727	Suppressed
+	"Utah"	"49"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	47537	Suppressed
+	"Utah"	"49"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	33979	Suppressed
+	"Utah"	"49"	"2019"	"2019"	"White"	"2106-3"	260	2904132	9.0
+	"Utah"	"49"	"2019"	"2019"	"More than one race"	"M"	Suppressed	84863	Suppressed
+	"Utah"	"49"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	50680	Suppressed
+	"Utah"	"49"	"2020"	"2020"	"Asian"	"A"	0	87168	Unreliable
+	"Utah"	"49"	"2020"	"2020"	"Black or African American"	"2054-5"	Suppressed	48513	Suppressed
+	"Utah"	"49"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	36571	Unreliable
+	"Utah"	"49"	"2020"	"2020"	"White"	"2106-3"	219	2938461	7.5
+	"Utah"	"49"	"2020"	"2020"	"More than one race"	"M"	Suppressed	88486	Suppressed
+	"Utah"	"49"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	52657	Suppressed
+	"Utah"	"49"	"2021"	"2021"	"Asian"	"A"	0	89680	Unreliable
+	"Utah"	"49"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	50597	Suppressed
+	"Utah"	"49"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	38207	Unreliable
+	"Utah"	"49"	"2021"	"2021"	"White"	"2106-3"	178	3013038	5.9
+	"Utah"	"49"	"2021"	"2021"	"More than one race"	"M"	Suppressed	93796	Suppressed
+	"Utah"	"49"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	52130	Suppressed
+	"Utah"	"49"	"2022"	"2022"	"Asian"	"A"	0	94519	Unreliable
+	"Utah"	"49"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	52777	Suppressed
+	"Utah"	"49"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	39302	Suppressed
+	"Utah"	"49"	"2022"	"2022"	"White"	"2106-3"	179	3043600	5.9
+	"Utah"	"49"	"2022"	"2022"	"More than one race"	"M"	Suppressed	98472	Suppressed
+	"Utah"	"49"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Utah"	"49"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	53517	Suppressed
+	"Utah"	"49"	"2023 "	"2023"	"Asian"	"A"	Suppressed	97516	Suppressed
+	"Utah"	"49"	"2023 "	"2023"	"Black or African American"	"2054-5"	Suppressed	55081	Suppressed
+	"Utah"	"49"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	39827	Suppressed
+	"Utah"	"49"	"2023 "	"2023"	"White"	"2106-3"	187	3068788	6.1
+	"Utah"	"49"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	103005	Suppressed
+	"Utah"	"49"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	2457	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"Asian"	"A"	0	12581	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"Black or African American"	"2054-5"	0	8753	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	247	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"White"	"2106-3"	20	589986	3.4
+	"Vermont"	"50"	"2018"	"2018"	"More than one race"	"M"	0	12275	Unreliable
+	"Vermont"	"50"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	2441	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"Asian"	"A"	0	11964	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"Black or African American"	"2054-5"	0	8774	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	247	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"White"	"2106-3"	22	588102	3.7
+	"Vermont"	"50"	"2019"	"2019"	"More than one race"	"M"	0	12461	Unreliable
+	"Vermont"	"50"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	2465	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"Asian"	"A"	0	12528	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"Black or African American"	"2054-5"	0	8900	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	232	Unreliable
+	"Vermont"	"50"	"2020"	"2020"	"White"	"2106-3"	30	586496	5.1
+	"Vermont"	"50"	"2020"	"2020"	"More than one race"	"M"	Suppressed	12726	Suppressed
+	"Vermont"	"50"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	2529	Suppressed
+	"Vermont"	"50"	"2021"	"2021"	"Asian"	"A"	0	12962	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"Black or African American"	"2054-5"	0	9393	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	245	Unreliable
+	"Vermont"	"50"	"2021"	"2021"	"White"	"2106-3"	30	607082	4.9
+	"Vermont"	"50"	"2021"	"2021"	"More than one race"	"M"	Suppressed	13359	Suppressed
+	"Vermont"	"50"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	2546	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"Asian"	"A"	0	13354	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"Black or African American"	"2054-5"	0	9830	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	250	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"White"	"2106-3"	21	607189	3.5
+	"Vermont"	"50"	"2022"	"2022"	"More than one race"	"M"	0	13895	Unreliable
+	"Vermont"	"50"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	2615	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"Asian"	"A"	0	13589	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	10445	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	267	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"White"	"2106-3"	18	606164	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"More than one race"	"M"	0	14384	Unreliable
+	"Vermont"	"50"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	46409	Suppressed
+	"Virginia"	"51"	"2018"	"2018"	"Asian"	"A"	Suppressed	589046	Suppressed
+	"Virginia"	"51"	"2018"	"2018"	"Black or African American"	"2054-5"	26	1691267	1.5
+	"Virginia"	"51"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	9998	Unreliable
+	"Virginia"	"51"	"2018"	"2018"	"White"	"2106-3"	228	5918670	3.9
+	"Virginia"	"51"	"2018"	"2018"	"More than one race"	"M"	Suppressed	262295	Suppressed
+	"Virginia"	"51"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	46602	Suppressed
+	"Virginia"	"51"	"2019"	"2019"	"Asian"	"A"	Suppressed	589710	Suppressed
+	"Virginia"	"51"	"2019"	"2019"	"Black or African American"	"2054-5"	24	1696911	1.4
+	"Virginia"	"51"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10092	Unreliable
+	"Virginia"	"51"	"2019"	"2019"	"White"	"2106-3"	218	5922648	3.7
+	"Virginia"	"51"	"2019"	"2019"	"More than one race"	"M"	Suppressed	269556	Suppressed
+	"Virginia"	"51"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	48099	Suppressed
+	"Virginia"	"51"	"2020"	"2020"	"Asian"	"A"	Suppressed	610373	Suppressed
+	"Virginia"	"51"	"2020"	"2020"	"Black or African American"	"2054-5"	40	1713129	2.3
+	"Virginia"	"51"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10439	Unreliable
+	"Virginia"	"51"	"2020"	"2020"	"White"	"2106-3"	244	5928117	4.1
+	"Virginia"	"51"	"2020"	"2020"	"More than one race"	"M"	Suppressed	280406	Suppressed
+	"Virginia"	"51"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	49207	Suppressed
+	"Virginia"	"51"	"2021"	"2021"	"Asian"	"A"	Suppressed	620996	Suppressed
+	"Virginia"	"51"	"2021"	"2021"	"Black or African American"	"2054-5"	47	1729436	2.7
+	"Virginia"	"51"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	10691	Suppressed
+	"Virginia"	"51"	"2021"	"2021"	"White"	"2106-3"	241	5942209	4.1
+	"Virginia"	"51"	"2021"	"2021"	"More than one race"	"M"	Suppressed	289735	Suppressed
+	"Virginia"	"51"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	50576	Suppressed
+	"Virginia"	"51"	"2022"	"2022"	"Asian"	"A"	Suppressed	637656	Suppressed
+	"Virginia"	"51"	"2022"	"2022"	"Black or African American"	"2054-5"	33	1737910	1.9
+	"Virginia"	"51"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	10996	Unreliable
+	"Virginia"	"51"	"2022"	"2022"	"White"	"2106-3"	184	5947332	3.1
+	"Virginia"	"51"	"2022"	"2022"	"More than one race"	"M"	Suppressed	299149	Suppressed
+	"Virginia"	"51"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Virginia"	"51"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	53618	Unreliable
+	"Virginia"	"51"	"2023 "	"2023"	"Asian"	"A"	Suppressed	645027	Suppressed
+	"Virginia"	"51"	"2023 "	"2023"	"Black or African American"	"2054-5"	30	1744373	1.7
+	"Virginia"	"51"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	11559	Unreliable
+	"Virginia"	"51"	"2023 "	"2023"	"White"	"2106-3"	139	5954674	2.3
+	"Virginia"	"51"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	306447	Suppressed
+	"Virginia"	"51"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	144450	Suppressed
+	"Washington"	"53"	"2018"	"2018"	"Asian"	"A"	Suppressed	703455	Suppressed
+	"Washington"	"53"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	322826	Suppressed
+	"Washington"	"53"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	59001	Unreliable
+	"Washington"	"53"	"2018"	"2018"	"White"	"2106-3"	209	5944924	3.5
+	"Washington"	"53"	"2018"	"2018"	"More than one race"	"M"	Suppressed	360935	Suppressed
+	"Washington"	"53"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	146799	Suppressed
+	"Washington"	"53"	"2019"	"2019"	"Asian"	"A"	Suppressed	727986	Suppressed
+	"Washington"	"53"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	331924	Suppressed
+	"Washington"	"53"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	60349	Suppressed
+	"Washington"	"53"	"2019"	"2019"	"White"	"2106-3"	203	5977696	3.4
+	"Washington"	"53"	"2019"	"2019"	"More than one race"	"M"	Suppressed	370139	Suppressed
+	"Washington"	"53"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	149705	Suppressed
+	"Washington"	"53"	"2020"	"2020"	"Asian"	"A"	Suppressed	757033	Suppressed
+	"Washington"	"53"	"2020"	"2020"	"Black or African American"	"2054-5"	12	340660	Unreliable
+	"Washington"	"53"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	61541	Unreliable
+	"Washington"	"53"	"2020"	"2020"	"White"	"2106-3"	211	5992328	3.5
+	"Washington"	"53"	"2020"	"2020"	"More than one race"	"M"	12	392345	Unreliable
+	"Washington"	"53"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	14	152807	Unreliable
+	"Washington"	"53"	"2021"	"2021"	"Asian"	"A"	Suppressed	775470	Suppressed
+	"Washington"	"53"	"2021"	"2021"	"Black or African American"	"2054-5"	18	348170	Unreliable
+	"Washington"	"53"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	63112	Suppressed
+	"Washington"	"53"	"2021"	"2021"	"White"	"2106-3"	263	5995925	4.4
+	"Washington"	"53"	"2021"	"2021"	"More than one race"	"M"	11	403208	Unreliable
+	"Washington"	"53"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	11	154178	Unreliable
+	"Washington"	"53"	"2022"	"2022"	"Asian"	"A"	Suppressed	814238	Suppressed
+	"Washington"	"53"	"2022"	"2022"	"Black or African American"	"2054-5"	17	357430	Unreliable
+	"Washington"	"53"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	65973	Suppressed
+	"Washington"	"53"	"2022"	"2022"	"White"	"2106-3"	199	5982306	3.3
+	"Washington"	"53"	"2022"	"2022"	"More than one race"	"M"	11	411661	Unreliable
+	"Washington"	"53"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Washington"	"53"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	157215	Suppressed
+	"Washington"	"53"	"2023 "	"2023"	"Asian"	"A"	Suppressed	839962	Suppressed
+	"Washington"	"53"	"2023 "	"2023"	"Black or African American"	"2054-5"	13	364647	Unreliable
+	"Washington"	"53"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	68252	Suppressed
+	"Washington"	"53"	"2023 "	"2023"	"White"	"2106-3"	228	5963225	3.8
+	"Washington"	"53"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	419579	Suppressed
+	"Washington"	"53"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	0	4526	Unreliable
+	"West Virginia"	"54"	"2018"	"2018"	"Asian"	"A"	0	15338	Unreliable
+	"West Virginia"	"54"	"2018"	"2018"	"Black or African American"	"2054-5"	Suppressed	65231	Suppressed
+	"West Virginia"	"54"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	528	Unreliable
+	"West Virginia"	"54"	"2018"	"2018"	"White"	"2106-3"	224	1687993	13.3
+	"West Virginia"	"54"	"2018"	"2018"	"More than one race"	"M"	Suppressed	32216	Suppressed
+	"West Virginia"	"54"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	0	4585	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"Asian"	"A"	0	14703	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"Black or African American"	"2054-5"	Suppressed	64610	Suppressed
+	"West Virginia"	"54"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	530	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"White"	"2106-3"	182	1675122	10.9
+	"West Virginia"	"54"	"2019"	"2019"	"More than one race"	"M"	0	32597	Unreliable
+	"West Virginia"	"54"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	0	4609	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"Asian"	"A"	Suppressed	15426	Suppressed
+	"West Virginia"	"54"	"2020"	"2020"	"Black or African American"	"2054-5"	15	65244	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	538	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"White"	"2106-3"	271	1665040	16.3
+	"West Virginia"	"54"	"2020"	"2020"	"More than one race"	"M"	0	33930	Unreliable
+	"West Virginia"	"54"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	0	4722	Unreliable
+	"West Virginia"	"54"	"2021"	"2021"	"Asian"	"A"	0	15746	Unreliable
+	"West Virginia"	"54"	"2021"	"2021"	"Black or African American"	"2054-5"	Suppressed	66240	Suppressed
+	"West Virginia"	"54"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	524	Unreliable
+	"West Virginia"	"54"	"2021"	"2021"	"White"	"2106-3"	207	1660372	12.5
+	"West Virginia"	"54"	"2021"	"2021"	"More than one race"	"M"	Suppressed	35355	Suppressed
+	"West Virginia"	"54"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	0	4888	Unreliable
+	"West Virginia"	"54"	"2022"	"2022"	"Asian"	"A"	0	16291	Unreliable
+	"West Virginia"	"54"	"2022"	"2022"	"Black or African American"	"2054-5"	Suppressed	66210	Suppressed
+	"West Virginia"	"54"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	617	Unreliable
+	"West Virginia"	"54"	"2022"	"2022"	"White"	"2106-3"	147	1648034	8.9
+	"West Virginia"	"54"	"2022"	"2022"	"More than one race"	"M"	0	39116	Unreliable
+	"West Virginia"	"54"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	0	5075	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"Asian"	"A"	0	16443	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"Black or African American"	"2054-5"	12	67346	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	543	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"White"	"2106-3"	134	1642905	8.2
+	"West Virginia"	"54"	"2023 "	"2023"	"More than one race"	"M"	0	37759	Unreliable
+	"West Virginia"	"54"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	67571	Suppressed
+	"Wisconsin"	"55"	"2018"	"2018"	"Asian"	"A"	Suppressed	176147	Suppressed
+	"Wisconsin"	"55"	"2018"	"2018"	"Black or African American"	"2054-5"	35	389047	9.0
+	"Wisconsin"	"55"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3243	Unreliable
+	"Wisconsin"	"55"	"2018"	"2018"	"White"	"2106-3"	215	5063526	4.2
+	"Wisconsin"	"55"	"2018"	"2018"	"More than one race"	"M"	Suppressed	114034	Suppressed
+	"Wisconsin"	"55"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	68628	Suppressed
+	"Wisconsin"	"55"	"2019"	"2019"	"Asian"	"A"	Suppressed	175279	Suppressed
+	"Wisconsin"	"55"	"2019"	"2019"	"Black or African American"	"2054-5"	24	390543	6.1
+	"Wisconsin"	"55"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3419	Unreliable
+	"Wisconsin"	"55"	"2019"	"2019"	"White"	"2106-3"	209	5067781	4.1
+	"Wisconsin"	"55"	"2019"	"2019"	"More than one race"	"M"	Suppressed	116784	Suppressed
+	"Wisconsin"	"55"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	69974	Suppressed
+	"Wisconsin"	"55"	"2020"	"2020"	"Asian"	"A"	Suppressed	183087	Suppressed
+	"Wisconsin"	"55"	"2020"	"2020"	"Black or African American"	"2054-5"	26	393117	6.6
+	"Wisconsin"	"55"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3529	Unreliable
+	"Wisconsin"	"55"	"2020"	"2020"	"White"	"2106-3"	245	5058584	4.8
+	"Wisconsin"	"55"	"2020"	"2020"	"More than one race"	"M"	Suppressed	124364	Suppressed
+	"Wisconsin"	"55"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	71663	Suppressed
+	"Wisconsin"	"55"	"2021"	"2021"	"Asian"	"A"	Suppressed	186678	Suppressed
+	"Wisconsin"	"55"	"2021"	"2021"	"Black or African American"	"2054-5"	40	398693	10.0
+	"Wisconsin"	"55"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3609	Unreliable
+	"Wisconsin"	"55"	"2021"	"2021"	"White"	"2106-3"	253	5106775	5.0
+	"Wisconsin"	"55"	"2021"	"2021"	"More than one race"	"M"	Suppressed	128490	Suppressed
+	"Wisconsin"	"55"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	71555	Suppressed
+	"Wisconsin"	"55"	"2022"	"2022"	"Asian"	"A"	Suppressed	190698	Suppressed
+	"Wisconsin"	"55"	"2022"	"2022"	"Black or African American"	"2054-5"	51	390428	13.1
+	"Wisconsin"	"55"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	3612	Unreliable
+	"Wisconsin"	"55"	"2022"	"2022"	"White"	"2106-3"	194	5103755	3.8
+	"Wisconsin"	"55"	"2022"	"2022"	"More than one race"	"M"	0	132491	Unreliable
+	"Wisconsin"	"55"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Wisconsin"	"55"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	73289	Suppressed
+	"Wisconsin"	"55"	"2023 "	"2023"	"Asian"	"A"	Suppressed	195770	Suppressed
+	"Wisconsin"	"55"	"2023 "	"2023"	"Black or African American"	"2054-5"	58	392333	14.8
+	"Wisconsin"	"55"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	Suppressed	3689	Suppressed
+	"Wisconsin"	"55"	"2023 "	"2023"	"White"	"2106-3"	189	5109837	3.7
+	"Wisconsin"	"55"	"2023 "	"2023"	"More than one race"	"M"	Suppressed	136037	Suppressed
+	"Wisconsin"	"55"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"American Indian or Alaska Native"	"1002-5"	Suppressed	15860	Suppressed
+	"Wyoming"	"56"	"2018"	"2018"	"Asian"	"A"	0	6213	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"Black or African American"	"2054-5"	0	7557	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	572	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"White"	"2106-3"	28	534943	5.2
+	"Wyoming"	"56"	"2018"	"2018"	"More than one race"	"M"	0	12592	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	Suppressed	15778	Suppressed
+	"Wyoming"	"56"	"2019"	"2019"	"Asian"	"A"	0	6571	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Black or African American"	"2054-5"	0	7467	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	596	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"White"	"2106-3"	30	535371	5.6
+	"Wyoming"	"56"	"2019"	"2019"	"More than one race"	"M"	0	12976	Unreliable
+	"Wyoming"	"56"	"2019"	"2019"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16374	Suppressed
+	"Wyoming"	"56"	"2020"	"2020"	"Asian"	"A"	0	6394	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Black or African American"	"2054-5"	0	7083	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	617	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"White"	"2106-3"	34	538519	6.3
+	"Wyoming"	"56"	"2020"	"2020"	"More than one race"	"M"	0	13341	Unreliable
+	"Wyoming"	"56"	"2020"	"2020"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16435	Suppressed
+	"Wyoming"	"56"	"2021"	"2021"	"Asian"	"A"	0	6329	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"Black or African American"	"2054-5"	0	7087	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	586	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"White"	"2106-3"	24	534669	4.5
+	"Wyoming"	"56"	"2021"	"2021"	"More than one race"	"M"	0	13697	Unreliable
+	"Wyoming"	"56"	"2021"	"2021"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2022"	"2022"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16273	Suppressed
+	"Wyoming"	"56"	"2022"	"2022"	"Asian"	"A"	0	6506	Unreliable
+	"Wyoming"	"56"	"2022"	"2022"	"Black or African American"	"2054-5"	0	7162	Unreliable
+	"Wyoming"	"56"	"2022"	"2022"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	627	Unreliable
+	"Wyoming"	"56"	"2022"	"2022"	"White"	"2106-3"	30	536573	5.6
+	"Wyoming"	"56"	"2022"	"2022"	"More than one race"	"M"	0	14240	Unreliable
+	"Wyoming"	"56"	"2022"	"2022"	"Not Available"	"999"	0	0	Unreliable
+	"Wyoming"	"56"	"2023 "	"2023"	"American Indian or Alaska Native"	"1002-5"	Suppressed	16393	Suppressed
+	"Wyoming"	"56"	"2023 "	"2023"	"Asian"	"A"	0	6723	Unreliable
+	"Wyoming"	"56"	"2023 "	"2023"	"Black or African American"	"2054-5"	0	7048	Unreliable
+	"Wyoming"	"56"	"2023 "	"2023"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0	661	Unreliable
+	"Wyoming"	"56"	"2023 "	"2023"	"White"	"2106-3"	36	538988	6.7
+	"Wyoming"	"56"	"2023 "	"2023"	"More than one race"	"M"	0	14244	Unreliable
+	"Wyoming"	"56"	"2023 "	"2023"	"Not Available"	"999"	0	0	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"Title: Prescription Opioids 2018-2023"
+"MCD - ICD-10 Codes: T40.2 (Other opioids)"
+"Group By: State; Year; Single Race 6"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-expanded.html for more information."
+"---"
+"Query Date: Jun 13, 2025 7:17:26 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10-expanded.html on Jun 13, 2025 7:17:26 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Unreliable."
+"3. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1"
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for year 2021 are"
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of"
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,"
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year"
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010"
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Age"
+"Group."
+"5. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#Connecticut-2022."
+"6. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-expanded.html#ICD-10 Changes."
